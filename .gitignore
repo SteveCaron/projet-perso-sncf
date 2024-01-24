@@ -3,3 +3,6 @@
 
 #Mon secret contenant ma clef api
 .env
+
+#Les fichiers Json
+*.json
