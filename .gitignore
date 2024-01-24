@@ -1,0 +1,5 @@
+# Mon environnement virtuel
+/.venv
+
+#Mon secret contenant ma clef api
+.env
