@@ -9,3 +9,6 @@
 
 #Les fichiers csv
 *.csv
+
+# Mon dossier contenant des exports
+/data
