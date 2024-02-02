@@ -12,3 +12,6 @@
 
 # Mon dossier contenant des exports
 /data
+
+#Scripts
+gare_exclues.ipynb
