@@ -11,7 +11,7 @@ Nous faisons une requete API contenant des informations sur le traffic. Nous all
 * Python 3.7
 * Docker
 * Git
-* Clef API sncf
+* Une clef API SNCF stocké dans un dotenv. Clé disponible sur : https://numerique.sncf.com/startup/api/
 
 ## Installation
 
