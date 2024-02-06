@@ -3,3 +3,15 @@
 
 #Mon secret contenant ma clef api
 .env
+
+#Les fichiers Json
+*.json
+
+#Les fichiers csv
+*.csv
+
+# Mon dossier contenant des exports
+/data
+
+#Script de test
+test.ipynb
