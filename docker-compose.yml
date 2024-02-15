@@ -4,19 +4,19 @@ version: '3.1'
 services:
 
   db:
-    image: mariadb:latest
+    container_name: mysql_container
+    image: mysql:latest
     restart: unless-stopped
     environment:
-      MARIADB_ROOT_PASSWORD: example
-      MARIADB_USER: utilisateur
-      MARIADB_PASSWORD: utilisateur
-      MARIADB_DATABASE: SNCF
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DB: APP_SNCF
     volumes:
-      - ./db_data:/var/lib/mysql
+      - ./mysql_data:/var/lib/mysql
     ports:
       - 3306:3306
 
   adminer:
+    container_name: adminer_container
     image: adminer
     restart: always
     ports:

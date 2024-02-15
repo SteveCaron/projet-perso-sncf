@@ -17,4 +17,10 @@
 test.ipynb
 
 #Volume base de donnée
-/db_data
+/mysql_data
+
+#test db
+test_db.ipynb
+
+#Fichier log
+*.log
