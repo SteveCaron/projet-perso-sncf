@@ -9,7 +9,7 @@ services:
     restart: unless-stopped
     environment:
       MYSQL_ROOT_PASSWORD: example
-      MYSQL_DB: APP_SNCF
+      MYSQL_DATABASE: APP_SNCF
     volumes:
       - ./mysql_data:/var/lib/mysql
     ports:
