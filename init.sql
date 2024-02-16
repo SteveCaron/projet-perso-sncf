@@ -1,4 +1,4 @@
-CREATE TABLE arrivees (
+CREATE TABLE IF NOT EXISTS arrivees (
 	arrivee_id VARCHAR(255) PRIMARY KEY NOT NULL, 
 	gare_id VARCHAR(255), 
 	departure_date_time DATETIME, 
