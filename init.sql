@@ -10,4 +10,12 @@ CREATE TABLE IF NOT EXISTS arrivees (
 	trip VARCHAR(255), 
 	direction VARCHAR(255), 
 	disruption_id VARCHAR(255)
+);
+
+CREATE TABLE IF NOT EXISTS perturbations (
+	perturbation_id VARCHAR(255) PRIMARY KEY NOT NULL,
+	debut DATETIME,
+	fin DATETIME,
+	effet VARCHAR(255)
+	message VARCHAR(255)
 )
