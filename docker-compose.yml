@@ -5,7 +5,7 @@ services:
 
   db:
     container_name: mysql_container
-    image: mysql:latest
+    image: mysql:8.3.0
     restart: unless-stopped
     environment:
       MYSQL_ROOT_PASSWORD: example
