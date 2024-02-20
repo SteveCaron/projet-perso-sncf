@@ -16,6 +16,6 @@ CREATE TABLE IF NOT EXISTS perturbations (
 	perturbation_id VARCHAR(255) PRIMARY KEY NOT NULL,
 	debut DATETIME,
 	fin DATETIME,
-	effet VARCHAR(255)
-	message VARCHAR(255)
-)
+	effet VARCHAR(255),
+	message_display VARCHAR(255)
+);
