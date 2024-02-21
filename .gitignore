@@ -15,3 +15,12 @@
 
 #Script de test
 test.ipynb
+
+#Volume base de donnée
+/mysql_data
+
+#test db
+test_db.ipynb
+
+#Fichier log
+*.log
