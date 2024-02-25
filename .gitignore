@@ -4,8 +4,6 @@
 #Mon secret contenant ma clef api
 .env
 
-#Les fichiers Json
-*.json
 
 #Les fichiers csv
 *.csv
@@ -19,8 +17,10 @@ test.ipynb
 #Volume base de donnée
 /mysql_data
 
-#test db
+#fichiers test
 test_db.ipynb
+analyse.ipynb
 
 #Fichier log
 *.log
+
