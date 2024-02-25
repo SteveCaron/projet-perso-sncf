@@ -24,3 +24,7 @@ analyse.ipynb
 #Fichier log
 *.log
 
+#Fichiers de creation du fichier topgare200.json
+ajout_reseau.ipynb
+gare_ranking.ipynb
+gares.ipynb
