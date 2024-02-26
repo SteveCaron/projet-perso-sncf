@@ -41,7 +41,7 @@ Ce projet à pour but de récolter les données des arrivées de train et des pe
 
 ## Exécution
 
-* Lancer le docker-compose ``docker-compose up``
+* Lancer le docker-compose ``docker compose up -d``
 
 * Attendre la fin de la mise en route du conteneur
 
