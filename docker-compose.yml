@@ -11,9 +11,11 @@ services:
       MYSQL_ROOT_PASSWORD: example
       MYSQL_DATABASE: APP_SNCF
     volumes:
+      - ./mysql_data:/var/lib/mysql
       - ./init.sql:/docker-entrypoint-initdb.d/setup.sql
     ports:
       - 3306:3306
+
 
   adminer:
     container_name: adminer_container
@@ -21,3 +23,6 @@ services:
     restart: always
     ports:
       - 8080:8080
+
+volumes:
+  mysql_data:
