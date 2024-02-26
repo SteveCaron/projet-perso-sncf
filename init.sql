@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS arrivees (
-	arrivee_id VARCHAR(255) PRIMARY KEY NOT NULL, 
+	id VARCHAR(255) PRIMARY KEY NOT NULL, 
 	gare_id VARCHAR(255), 
-	date_arrive DATE, 
+	date_arrivee DATE, 
 	heure_arrivee_prevue TIME, 
 	heure_arrivee TIME,
 	retard TIME, 
