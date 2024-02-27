@@ -8,7 +8,7 @@ __Date :__ 28/01/2024
 
 ## Description
 
-Ce projet à pour but de récolter les données des arrivées de train et des perturbations dans les 200gares les plus fréquentées de France. Elle stocke ensuite les données dans une base de données MYSQL se trouvant dans un conteneur docker
+Ce projet à pour but de récolter les données des arrivées de train et des perturbations dans les 200gares les plus fréquentées de France. Les données sont ensuite stockées dans une base de données MYSQL se trouvant dans un conteneur docker. Les données étant stocké dans un volume, vous pouvez supprimer le conteneur docker ``docker compose down`` sans perdre les données.
 
 ## Prérequis
 

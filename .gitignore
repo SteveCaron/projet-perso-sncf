@@ -28,3 +28,7 @@ analyse.ipynb
 ajout_reseau.ipynb
 gare_ranking.ipynb
 gares.ipynb
+
+#Script depannage
+backup_to_database.ipynb
+trie_fichiers.ipynb
