@@ -4,8 +4,6 @@
 #Mon secret contenant ma clef api
 .env
 
-#Les fichiers Json
-*.json
 
 #Les fichiers csv
 *.csv
@@ -15,3 +13,22 @@
 
 #Script de test
 test.ipynb
+
+#Volume base de donnée
+/mysql_data
+
+#fichiers test
+test_db.ipynb
+analyse.ipynb
+
+#Fichier log
+*.log
+
+#Fichiers de creation du fichier topgare200.json
+ajout_reseau.ipynb
+gare_ranking.ipynb
+gares.ipynb
+
+#Script depannage
+backup_to_database.ipynb
+trie_fichiers.ipynb

@@ -8,12 +8,13 @@ __Date :__ 28/01/2024
 
 ## Description
 
-Ce projet à pour but de recolter et de transformer les données de L'API SNCF afin de mettre en avant les gares du réseau qui subissent le plus de retard sur leurs trains arrivant en gare.
+Ce projet à pour but de récolter les données des arrivées de train et des perturbations dans les 200gares les plus fréquentées de France. Les données sont ensuite stockées dans une base de données MYSQL se trouvant dans un conteneur docker. Les données étant stocké dans un volume, vous pouvez supprimer le conteneur docker ``docker compose down`` sans perdre les données.
 
 ## Prérequis
 
 * Python 3.7
 * Git
+* Docker
 * Une clef API SNCF stocké dans un dotenv. Clé disponible sur : https://numerique.sncf.com/startup/api/
 
 ## Installation
@@ -32,4 +33,16 @@ Ce projet à pour but de recolter et de transformer les données de L'API SNCF a
 
     `` pip install -r requirements.txt ``
 
-* Creer un fichier ``.env`` a la racine du projet et enregistrer la clé API sous la forme suivant : API_KEY = "*****************"
+* Creer un fichier ``.env`` a la racine du projet et enregistrer les paramètres suivant :
+
+    * La clé API sous la forme suivant : API_KEY = "*****************"
+
+    * Le mot de passe de votre database : DB_PASSWORD = "example"
+
+## Exécution
+
+* Lancer le docker-compose ``docker compose up -d``
+
+* Attendre la fin de la mise en route du conteneur
+
+* Lancer le scrip ``app.ipynb``

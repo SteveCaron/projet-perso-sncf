@@ -1,0 +1,5046 @@
+{
+    "id": {
+        "1342": "stop_area:SNCF:87271007",
+        "1887": "stop_area:SNCF:87384008",
+        "360": "stop_area:SNCF:87686006",
+        "1343": "stop_area:SNCF:87391003",
+        "359": "stop_area:SNCF:87113001",
+        "1269": "stop_area:SNCF:87723197",
+        "229": "stop_area:SNCF:87382218",
+        "219": "stop_area:SNCF:87545244",
+        "2438": "stop_area:SNCF:87271015",
+        "2097": "stop_area:SNCF:87328328",
+        "541": "stop_area:SNCF:87271411",
+        "1252": "stop_area:SNCF:87286005",
+        "156": "stop_area:SNCF:87276055",
+        "460": "stop_area:SNCF:87212027",
+        "1063": "stop_area:SNCF:87581009",
+        "1886": "stop_area:SNCF:87547000",
+        "494": "stop_area:SNCF:87393009",
+        "2266": "stop_area:SNCF:87271395",
+        "15": "stop_area:SNCF:87381137",
+        "1279": "stop_area:SNCF:87751008",
+        "976": "stop_area:SNCF:87113712",
+        "1524": "stop_area:SNCF:87381848",
+        "708": "stop_area:SNCF:87386409",
+        "846": "stop_area:SNCF:87113217",
+        "843": "stop_area:SNCF:87481002",
+        "155": "stop_area:SNCF:87271122",
+        "1685": "stop_area:SNCF:87276196",
+        "2531": "stop_area:SNCF:87681825",
+        "1564": "stop_area:SNCF:87113407",
+        "1380": "stop_area:SNCF:87471003",
+        "308": "stop_area:SNCF:87682005",
+        "2246": "stop_area:SNCF:87164798",
+        "1004": "stop_area:SNCF:87271494",
+        "2503": "stop_area:SNCF:87611004",
+        "1086": "stop_area:SNCF:87381905",
+        "1201": "stop_area:SNCF:87271304",
+        "396": "stop_area:SNCF:87654798",
+        "1814": "stop_area:SNCF:87681155",
+        "613": "stop_area:SNCF:87381129",
+        "1352": "stop_area:SNCF:87386573",
+        "107": "stop_area:SNCF:87545285",
+        "36": "stop_area:SNCF:87382002",
+        "1892": "stop_area:SNCF:87271163",
+        "443": "stop_area:SNCF:87386417",
+        "509": "stop_area:SNCF:87276220",
+        "2466": "stop_area:SNCF:87393843",
+        "1327": "stop_area:SNCF:87756056",
+        "1612": "stop_area:SNCF:87116111",
+        "663": "stop_area:SNCF:87681387",
+        "797": "stop_area:SNCF:87381509",
+        "2359": "stop_area:SNCF:87141002",
+        "2329": "stop_area:SNCF:87192039",
+        "1940": "stop_area:SNCF:87382358",
+        "859": "stop_area:SNCF:87113209",
+        "618": "stop_area:SNCF:87681007",
+        "1868": "stop_area:SNCF:87386318",
+        "689": "stop_area:SNCF:87747006",
+        "1273": "stop_area:SNCF:87386425",
+        "957": "stop_area:SNCF:87164780",
+        "1282": "stop_area:SNCF:87116103",
+        "1498": "stop_area:SNCF:87113795",
+        "880": "stop_area:SNCF:87276139",
+        "831": "stop_area:SNCF:87773002",
+        "1897": "stop_area:SNCF:87381111",
+        "1649": "stop_area:SNCF:87271403",
+        "1445": "stop_area:SNCF:87271445",
+        "789": "stop_area:SNCF:87722025",
+        "593": "stop_area:SNCF:87382655",
+        "2181": "stop_area:SNCF:87713040",
+        "1135": "stop_area:SNCF:87276022",
+        "1929": "stop_area:SNCF:87411017",
+        "1589": "stop_area:SNCF:87382499",
+        "1436": "stop_area:SNCF:87545236",
+        "2165": "stop_area:SNCF:87381459",
+        "1003": "stop_area:SNCF:87271460",
+        "1291": "stop_area:SNCF:87756403",
+        "2275": "stop_area:SNCF:87113472",
+        "134": "stop_area:SNCF:87608802",
+        "2519": "stop_area:SNCF:87271437",
+        "975": "stop_area:SNCF:87381798",
+        "534": "stop_area:SNCF:87484006",
+        "969": "stop_area:SNCF:87571000",
+        "693": "stop_area:SNCF:87681379",
+        "1251": "stop_area:SNCF:87223263",
+        "2058": "stop_area:SNCF:87313874",
+        "2162": "stop_area:SNCF:87381087",
+        "683": "stop_area:SNCF:87113860",
+        "1485": "stop_area:SNCF:87382861",
+        "1076": "stop_area:SNCF:87545194",
+        "941": "stop_area:SNCF:87276386",
+        "900": "stop_area:SNCF:87113704",
+        "1927": "stop_area:SNCF:87113696",
+        "501": "stop_area:SNCF:87681304",
+        "1681": "stop_area:SNCF:87113514",
+        "568": "stop_area:SNCF:87381079",
+        "625": "stop_area:SNCF:87276006",
+        "1153": "stop_area:SNCF:87276071",
+        "1245": "stop_area:SNCF:87386300",
+        "1862": "stop_area:SNCF:87182063",
+        "754": "stop_area:SNCF:87396002",
+        "233": "stop_area:SNCF:87386003",
+        "2295": "stop_area:SNCF:87682153",
+        "2485": "stop_area:SNCF:87271429",
+        "358": "stop_area:SNCF:87686667",
+        "2535": "stop_area:SNCF:87393215",
+        "1278": "stop_area:SNCF:87111849",
+        "1851": "stop_area:SNCF:87276089",
+        "1775": "stop_area:SNCF:87386680",
+        "1582": "stop_area:SNCF:87757625",
+        "1999": "stop_area:SNCF:87755009",
+        "856": "stop_area:SNCF:87543009",
+        "1634": "stop_area:SNCF:87382200",
+        "343": "stop_area:SNCF:87775007",
+        "1594": "stop_area:SNCF:87741009",
+        "190": "stop_area:SNCF:87276246",
+        "1375": "stop_area:SNCF:87171009",
+        "1079": "stop_area:SNCF:87682120",
+        "2079": "stop_area:SNCF:87318964",
+        "114": "stop_area:SNCF:87182014",
+        "2157": "stop_area:SNCF:87734004",
+        "2166": "stop_area:SNCF:87381897",
+        "653": "stop_area:SNCF:87116046",
+        "1022": "stop_area:SNCF:87342014",
+        "1943": "stop_area:SNCF:87393223",
+        "1496": "stop_area:SNCF:87697318",
+        "1367": "stop_area:SNCF:87382382",
+        "1913": "stop_area:SNCF:87393314",
+        "2473": "stop_area:SNCF:87276188",
+        "990": "stop_area:SNCF:87271510",
+        "364": "stop_area:SNCF:87276469",
+        "1959": "stop_area:SNCF:87571240",
+        "807": "stop_area:SNCF:87393579",
+        "79": "stop_area:SNCF:87444000",
+        "2050": "stop_area:SNCF:87319012",
+        "1508": "stop_area:SNCF:87682112",
+        "914": "stop_area:SNCF:87726000",
+        "527": "stop_area:SNCF:87381657",
+        "2167": "stop_area:SNCF:87381863",
+        "2489": "stop_area:SNCF:87382374",
+        "944": "stop_area:SNCF:87682187",
+        "1353": "stop_area:SNCF:87575001",
+        "2251": "stop_area:SNCF:87393256",
+        "970": "stop_area:SNCF:87393835",
+        "2138": "stop_area:SNCF:87394007",
+        "827": "stop_area:SNCF:87682104",
+        "202": "stop_area:SNCF:87381889",
+        "1761": "stop_area:SNCF:87271478",
+        "964": "stop_area:SNCF:87191007",
+        "413": "stop_area:SNCF:87545210",
+        "2365": "stop_area:SNCF:87334482",
+        "168": "stop_area:SNCF:87682211",
+        "1625": "stop_area:SNCF:87682146",
+        "733": "stop_area:SNCF:87116319",
+        "1471": "stop_area:SNCF:87763029",
+        "1329": "stop_area:SNCF:87113746",
+        "1124": "stop_area:SNCF:87276345",
+        "1648": "stop_area:SNCF:87345009",
+        "718": "stop_area:SNCF:87271171",
+        "63": "stop_area:SNCF:87682138",
+        "896": "stop_area:SNCF:87116038",
+        "2005": "stop_area:SNCF:87343004",
+        "929": "stop_area:SNCF:87545202",
+        "1018": "stop_area:SNCF:87746008",
+        "263": "stop_area:SNCF:87381095",
+        "256": "stop_area:SNCF:87113522",
+        "1031": "stop_area:SNCF:87765008",
+        "241": "stop_area:SNCF:87485003",
+        "2130": "stop_area:SNCF:87276063",
+        "2019": "stop_area:SNCF:87386656",
+        "43": "stop_area:SNCF:87718007",
+        "1672": "stop_area:SNCF:87393405",
+        "1980": "stop_area:SNCF:87382341",
+        "1142": "stop_area:SNCF:87545137",
+        "97": "stop_area:SNCF:87276113",
+        "1020": "stop_area:SNCF:87757674",
+        "1826": "stop_area:SNCF:87393702",
+        "1287": "stop_area:SNCF:87271528",
+        "319": "stop_area:SNCF:87682302",
+        "1236": "stop_area:SNCF:87681247",
+        "642": "stop_area:SNCF:87276436",
+        "2027": "stop_area:SNCF:87721332",
+        "744": "stop_area:SNCF:87681395",
+        "2035": "stop_area:SNCF:87382887",
+        "2481": "stop_area:SNCF:87214056",
+        "483": "stop_area:SNCF:87761007",
+        "1074": "stop_area:SNCF:87474007",
+        "2147": "stop_area:SNCF:87382333",
+        "845": "stop_area:SNCF:87756353",
+        "268": "stop_area:SNCF:87113779",
+        "616": "stop_area:SNCF:87276691",
+        "866": "stop_area:SNCF:87393421",
+        "357": "stop_area:SNCF:87271486",
+        "1416": "stop_area:SNCF:87276600",
+        "655": "stop_area:SNCF:87545228",
+        "2061": "stop_area:SNCF:87583005",
+        "991": "stop_area:SNCF:87271452",
+        "2236": "stop_area:SNCF:87382432",
+        "267": "stop_area:SNCF:87492108",
+        "1324": "stop_area:SNCF:87781104",
+        "2504": "stop_area:SNCF:87116210"
+    },
+    "total_voyageurs_2022": {
+        "1342": 211698470,
+        "1887": 102910589,
+        "360": 102024783,
+        "1343": 56862435,
+        "359": 36774394,
+        "1269": 36558465,
+        "229": 35649320,
+        "219": 33271111,
+        "2438": 26902902,
+        "2097": 22986683,
+        "541": 22707800,
+        "1252": 21992946,
+        "156": 21728297,
+        "460": 21446966,
+        "1063": 21353889,
+        "1886": 19515861,
+        "494": 18934500,
+        "2266": 18333290,
+        "15": 17579037,
+        "1279": 16906447,
+        "976": 16450965,
+        "1524": 16033835,
+        "708": 15852935,
+        "846": 15647951,
+        "843": 15512154,
+        "155": 15327902,
+        "1685": 14813702,
+        "2531": 14780961,
+        "1564": 14605023,
+        "1380": 13921836,
+        "308": 13065160,
+        "2246": 13005557,
+        "1004": 12949183,
+        "2503": 12869088,
+        "1086": 12677261,
+        "1201": 11989659,
+        "396": 11987483,
+        "1814": 11252775,
+        "613": 11232100,
+        "1352": 11163637,
+        "107": 10936239,
+        "36": 10762906,
+        "1892": 10628690,
+        "443": 10048491,
+        "509": 9912578,
+        "2466": 9601190,
+        "1327": 9397550,
+        "1612": 9379970,
+        "663": 9299239,
+        "797": 8323186,
+        "2359": 8320214,
+        "2329": 8302189,
+        "1940": 8275307,
+        "859": 8207191,
+        "618": 8129611,
+        "1868": 8029557,
+        "689": 7993812,
+        "1273": 7964985,
+        "957": 7844102,
+        "1282": 7838001,
+        "1498": 7700718,
+        "880": 7676107,
+        "831": 7646291,
+        "1897": 7490334,
+        "1649": 7412637,
+        "1445": 7249470,
+        "789": 7132629,
+        "593": 7096311,
+        "2181": 7081622,
+        "1135": 7014246,
+        "1929": 6977129,
+        "1589": 6961854,
+        "1436": 6788452,
+        "2165": 6673880,
+        "1003": 6584031,
+        "1291": 6560913,
+        "2275": 6505496,
+        "134": 6412258,
+        "2519": 6389699,
+        "975": 6287678,
+        "534": 6269502,
+        "969": 6248554,
+        "693": 6155100,
+        "1251": 6056899,
+        "2058": 6004673,
+        "2162": 5836138,
+        "683": 5708651,
+        "1485": 5530365,
+        "1076": 5496901,
+        "941": 5440971,
+        "900": 5361506,
+        "1927": 5348239,
+        "501": 5334560,
+        "1681": 5305596,
+        "568": 5302890,
+        "625": 5224702,
+        "1153": 5203210,
+        "1245": 5077252,
+        "1862": 5056324,
+        "754": 5048028,
+        "233": 4891934,
+        "2295": 4842725,
+        "2485": 4784929,
+        "358": 4764857,
+        "2535": 4651553,
+        "1278": 4641120,
+        "1851": 4595524,
+        "1775": 4588884,
+        "1582": 4487177,
+        "1999": 4439452,
+        "856": 4420737,
+        "1634": 4387299,
+        "343": 4316299,
+        "1594": 4316253,
+        "190": 4313975,
+        "1375": 4309354,
+        "1079": 4246577,
+        "2079": 4160030,
+        "114": 4103990,
+        "2157": 4095262,
+        "2166": 4070670,
+        "653": 3975775,
+        "1022": 3920113,
+        "1943": 3907455,
+        "1496": 3902317,
+        "1367": 3900194,
+        "1913": 3874743,
+        "2473": 3857638,
+        "990": 3855727,
+        "364": 3807121,
+        "1959": 3784800,
+        "807": 3755971,
+        "79": 3753065,
+        "2050": 3739796,
+        "1508": 3738278,
+        "914": 3685091,
+        "527": 3645213,
+        "2167": 3618254,
+        "2489": 3503155,
+        "944": 3489606,
+        "1353": 3463640,
+        "2251": 3416383,
+        "970": 3413529,
+        "2138": 3394491,
+        "827": 3365599,
+        "202": 3356330,
+        "1761": 3347231,
+        "964": 3324941,
+        "413": 3315717,
+        "2365": 3268443,
+        "168": 3194698,
+        "1625": 3181458,
+        "733": 3156126,
+        "1471": 3022392,
+        "1329": 3019593,
+        "1124": 2982566,
+        "1648": 2964246,
+        "718": 2886266,
+        "63": 2880374,
+        "896": 2879867,
+        "2005": 2875726,
+        "929": 2863633,
+        "1018": 2817701,
+        "263": 2801735,
+        "256": 2779109,
+        "1031": 2775924,
+        "241": 2692269,
+        "2130": 2643784,
+        "2019": 2641905,
+        "43": 2616257,
+        "1672": 2614566,
+        "1980": 2602668,
+        "1142": 2602664,
+        "97": 2600290,
+        "1020": 2593610,
+        "1826": 2589355,
+        "1287": 2580330,
+        "319": 2542109,
+        "1236": 2529584,
+        "642": 2515498,
+        "2027": 2450701,
+        "744": 2426400,
+        "2035": 2426142,
+        "2481": 2400515,
+        "483": 2373588,
+        "1074": 2370384,
+        "2147": 2352461,
+        "845": 2350877,
+        "268": 2344609,
+        "616": 2341622,
+        "866": 2336338,
+        "357": 2304239,
+        "1416": 2272089,
+        "655": 2236797,
+        "2061": 2198301,
+        "991": 2192462,
+        "2236": 2183744,
+        "267": 2139277,
+        "1324": 2134281,
+        "2504": 2096889
+    },
+    "networks": {
+        "1342": [
+            {
+                "id": "network:SNCF:EUROSTAR",
+                "name": "Eurostar",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "1887": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "360": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:LYR",
+                "name": "TGV Lyria",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "1343": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "359": [
+            {
+                "id": "network:SNCF:DBS",
+                "name": "DB SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1269": [
+            {
+                "id": "network:SNCF:DBS",
+                "name": "DB SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "229": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "219": [
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2438": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2097": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "541": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1252": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "156": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "460": [
+            {
+                "id": "network:SNCF:DBS",
+                "name": "DB SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "1063": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::5c5f14b9-bff2-4f94-8853-0f621bf1a1cf:",
+                "name": "TER NA",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "1886": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:ICN",
+                "name": "Intercit\u00e9s de nuit",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            }
+        ],
+        "494": [
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2266": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "15": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1279": [
+            {
+                "id": "network:SNCF:DBS",
+                "name": "DB SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "976": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1524": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "708": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "846": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "843": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "155": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1685": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2531": [
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1564": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1380": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "308": [
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2246": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1004": [
+            {
+                "id": "network:SNCF:EUROSTAR",
+                "name": "Eurostar",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "2503": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:ICN",
+                "name": "Intercit\u00e9s de nuit",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "1086": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1201": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "396": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1814": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "613": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1352": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "107": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "36": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1892": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "443": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "509": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2466": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1327": [
+            {
+                "id": "network:SNCF:ICN",
+                "name": "Intercit\u00e9s de nuit",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1612": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "663": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "797": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2359": [
+            {
+                "id": "network:SNCF:SNF",
+                "name": "SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "2329": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:SNF",
+                "name": "SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "1940": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "859": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "618": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1868": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "689": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1273": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "957": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1282": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1498": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "880": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "831": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:ICN",
+                "name": "Intercit\u00e9s de nuit",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "1897": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1649": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1445": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "789": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "593": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2181": [
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:LYR",
+                "name": "TGV Lyria",
+                "links": []
+            }
+        ],
+        "1135": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1929": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1589": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1436": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2165": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1003": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1291": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            }
+        ],
+        "2275": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "134": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2519": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "975": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "534": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "969": [
+            {
+                "id": "network:SNCF:SNF",
+                "name": "SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "693": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1251": [
+            {
+                "id": "network:SNCF:EUROSTAR",
+                "name": "Eurostar",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "2058": [
+            {
+                "id": "network:SNCF:SNF",
+                "name": "SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "2162": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "683": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1485": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1076": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "941": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "900": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1927": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "501": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1681": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "568": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "625": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1153": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1245": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1862": [
+            {
+                "id": "network:SNCF:DBS",
+                "name": "DB SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:LYR",
+                "name": "TGV Lyria",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "754": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "233": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2295": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2485": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "358": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            }
+        ],
+        "2535": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1278": [
+            {
+                "id": "network:SNCF:EUROSTAR",
+                "name": "Eurostar",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1851": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1775": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1582": [
+            {
+                "id": "network:SNCF:ICN",
+                "name": "Intercit\u00e9s de nuit",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1999": [
+            {
+                "id": "network:SNCF:ICN",
+                "name": "Intercit\u00e9s de nuit",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "856": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            }
+        ],
+        "1634": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "343": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:ICN",
+                "name": "Intercit\u00e9s de nuit",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "1594": [
+            {
+                "id": "network:SNCF:EUROSTAR",
+                "name": "Eurostar",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "190": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1375": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1079": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2079": [
+            {
+                "id": "network:SNCF:DBS",
+                "name": "DB SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "114": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "2157": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            }
+        ],
+        "2166": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "653": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1022": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1943": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1496": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1367": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1913": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2473": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "990": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "364": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1959": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:SNF",
+                "name": "SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "807": [
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "79": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            }
+        ],
+        "2050": [
+            {
+                "id": "network:SNCF:DBS",
+                "name": "DB SNCF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1508": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "914": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "527": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2167": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2489": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "944": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1353": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::5c5f14b9-bff2-4f94-8853-0f621bf1a1cf:",
+                "name": "TER NA",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "2251": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "970": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2138": [
+            {
+                "id": "network:SNCF:OUIGO_TC",
+                "name": "OUIGO Train Classique",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            }
+        ],
+        "827": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "202": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1761": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "964": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "413": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2365": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "168": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1625": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "733": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1471": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1329": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1124": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1648": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "718": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "63": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "896": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2005": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "929": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1018": [
+            {
+                "id": "network:SNCF:FR:Branding::a80c322c-12b1-4273-9413-e2df5dd6dce8:",
+                "name": "LEX",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "263": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "256": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1031": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "241": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::5c5f14b9-bff2-4f94-8853-0f621bf1a1cf:",
+                "name": "TER NA",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "2130": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2019": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "43": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1672": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1980": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1142": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "97": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1020": [
+            {
+                "id": "network:SNCF:ICN",
+                "name": "Intercit\u00e9s de nuit",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1826": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "1287": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "319": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1236": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "642": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2027": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            }
+        ],
+        "744": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2035": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2481": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "483": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "1074": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            }
+        ],
+        "2147": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "845": [
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            }
+        ],
+        "268": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "616": [
+            {
+                "id": "network:SNCF:FR:Branding::6dfb1ec4-50b5-42a8-a531-a792b1ea6f2e:",
+                "name": "TER HDF",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "866": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "357": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1416": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "655": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2061": [
+            {
+                "id": "network:SNCF:TGVOUIGO",
+                "name": "OUIGO",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:FR:Branding::5c5f14b9-bff2-4f94-8853-0f621bf1a1cf:",
+                "name": "TER NA",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "991": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "2236": [
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "267": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ],
+        "1324": [
+            {
+                "id": "network:SNCF:IC",
+                "name": "Intercit\u00e9s",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:ICN",
+                "name": "Intercit\u00e9s de nuit",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TER",
+                "name": "TER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:OUI",
+                "name": "TGV INOUI",
+                "links": []
+            },
+            {
+                "id": "network:additional_service",
+                "name": "additional service",
+                "links": []
+            }
+        ],
+        "2504": [
+            {
+                "id": "network:SNCF:TNRER",
+                "name": "RER",
+                "links": []
+            },
+            {
+                "id": "network:SNCF:TN",
+                "name": "TRANSILIEN",
+                "links": []
+            }
+        ]
+    },
+    "nom": {
+        "1342": "Paris Nord",
+        "1887": "Paris Saint-Lazare",
+        "360": "Paris - Gare de Lyon - Hall 1 & 2",
+        "1343": "Paris - Montparnasse - Hall 1 & 2",
+        "359": "Paris Est",
+        "1269": "Lyon Part Dieu",
+        "229": "La D\u00e9fense",
+        "219": "Juvisy",
+        "2438": "Saint-Denis",
+        "2097": "Biblioth\u00e8que Fran\u00e7ois Mitterrand",
+        "541": "Aulnay-sous-Bois",
+        "1252": "Lille Flandres",
+        "156": "Ermont - Eaubonne",
+        "460": "Strasbourg",
+        "1063": "Bordeaux Saint-Jean",
+        "1886": "Paris Austerlitz",
+        "494": "Versailles Chantiers",
+        "2266": "Le Bourget",
+        "15": "Asni\u00e8res-sur-Seine",
+        "1279": "Marseille Saint-Charles",
+        "976": "Val de Fontenay",
+        "1524": "Argenteuil",
+        "708": "Houilles - Carri\u00e8res-sur-Seine",
+        "846": "Noisy-le-Sec",
+        "843": "Nantes",
+        "155": "\u00c9pinay - Villetaneuse",
+        "1685": "Garges - Sarcelles",
+        "2531": "Villeneuve-Saint-Georges",
+        "1564": "Bondy",
+        "1380": "Rennes",
+        "308": "Melun",
+        "2246": "La Plaine Stade de France - Saint-Denis - Aubervilliers",
+        "1004": "A\u00e9roport Charles de Gaulle 2 TGV",
+        "2503": "Toulouse Matabiau",
+        "1086": "Cergy Pr\u00e9fecture",
+        "1201": "La Courneuve - Aubervilliers",
+        "396": "Rosa Parks",
+        "1814": "Maisons-Alfort - Alfortville",
+        "613": "Clichy - Levallois",
+        "1352": "Poissy",
+        "107": "Choisy-le-Roi",
+        "36": "B\u00e9con les Bruy\u00e8res",
+        "1892": "Pierrefitte - Stains",
+        "443": "Sartrouville",
+        "509": "Villiers-le-Bel - Gonesse - Arnouville",
+        "2466": "Saint-Quentin en Yvelines - Montigny-le-Bretonneux",
+        "1327": "Nice",
+        "1612": "Chelles - Gournay",
+        "663": "\u00c9vry - Courcouronnes",
+        "797": "Mantes-la-Jolie",
+        "2359": "Nancy",
+        "2329": "Metz",
+        "1940": "Saint-Cloud",
+        "859": "Pantin",
+        "618": "Corbeil-Essonnes",
+        "1868": "Nanterre Universit\u00e9",
+        "689": "Grenoble",
+        "1273": "Maisons-Laffitte",
+        "957": "Stade de France - Saint-Denis",
+        "1282": "Meaux",
+        "1498": "Villiers-sur-Marne - Le Plessis-Tr\u00e9vise",
+        "880": "Pontoise",
+        "831": "Montpellier Saint-Roch",
+        "1897": "Pont Cardinet",
+        "1649": "Drancy",
+        "1445": "Sevran Beaudottes",
+        "789": "Lyon Perrache",
+        "593": "Cergy le Haut",
+        "2181": "Dijon",
+        "1135": "Enghien-les-Bains",
+        "1929": "Rouen Rive Droite",
+        "1589": "Cergy Saint-Christophe",
+        "1436": "Savigny-sur-Orge",
+        "2165": "Conflans Fin d'Oise",
+        "1003": "A\u00e9roport Roissy Charles de Gaulle 1",
+        "1291": "Monaco Monte Carlo",
+        "2275": "Le Raincy - Villemomble - Montfermeil",
+        "134": "Cr\u00e9teil - Pompadour",
+        "2519": "Vert Galant",
+        "975": "Val d'Argenteuil",
+        "534": "Angers Saint-Laud",
+        "969": "Tours",
+        "693": "Grigny Centre",
+        "1251": "Lille Europe",
+        "2058": "Amiens",
+        "2162": "Colombes",
+        "683": "Gargan",
+        "1485": "Versailles Rive Droite",
+        "1076": "Br\u00e9tigny",
+        "941": "Sarcelles - Saint-Brice",
+        "900": "Rosny-sous-Bois",
+        "1927": "Rosny Bois-Perrier",
+        "501": "Vigneux-sur-Seine",
+        "1681": "Gagny",
+        "568": "Bois-Colombes",
+        "625": "Creil",
+        "1153": "Franconville - Le Plessis-Bouchard",
+        "1245": "Les Vall\u00e9es",
+        "1862": "Mulhouse",
+        "754": "Le Mans",
+        "233": "La Garenne-Colombes",
+        "2295": "Lieusaint - Moissy",
+        "2485": "Sevran - Livry",
+        "358": "Paris-Bercy Bourgogne - Pays d'Auvergne",
+        "2535": "Viroflay Rive Gauche",
+        "1278": "Marne-la-Vall\u00e9e - Chessy",
+        "1851": "Montigny - Beauchamp",
+        "1775": "Les Mureaux",
+        "1582": "Cannes",
+        "1999": "Toulon",
+        "856": "Orl\u00e9ans",
+        "1634": "Courbevoie",
+        "343": "N\u00eemes Centre",
+        "1594": "Chamb\u00e9ry - Challes-les-Eaux",
+        "190": "Goussainville",
+        "1375": "Reims",
+        "1079": "Brunoy",
+        "2079": "Avignon TGV",
+        "114": "Colmar",
+        "2157": "Clermont-Ferrand",
+        "2166": "Conflans-Sainte-Honorine",
+        "653": "\u00c9merainville - Pontault-Combault",
+        "1022": "Arras",
+        "1943": "Saint-Cyr",
+        "1496": "Villetaneuse - Universit\u00e9",
+        "1367": "Puteaux",
+        "1913": "Rambouillet",
+        "2473": "Sannois",
+        "990": "Villeparisis - Mitry-le-Neuf",
+        "364": "Persan - Beaumont",
+        "1959": "Saint-Pierre-des-Corps",
+        "807": "Massy-Palaiseau",
+        "79": "Caen",
+        "2050": "Aix-en-Provence TGV",
+        "1508": "Yerres",
+        "914": "Saint-\u00c9tienne Ch\u00e2teaucreux",
+        "527": "Ach\u00e8res Ville",
+        "2167": "Cormeilles-en-Parisis",
+        "2489": "Suresnes Mont Val\u00e9rien",
+        "944": "Savigny-le-Temple - Nandy",
+        "1353": "Poitiers",
+        "2251": "La Verri\u00e8re",
+        "970": "Trappes",
+        "2138": "Chartres",
+        "827": "Montgeron - Crosne",
+        "202": "Herblay",
+        "1761": "Le Blanc-Mesnil",
+        "964": "Thionville",
+        "413": "Sainte-Genevi\u00e8ve-des-Bois",
+        "2365": "Neuville - Universit\u00e9",
+        "168": "Fontainebleau - Avon",
+        "1625": "Combs-la-Ville - Quincy",
+        "733": "Lagny - Thorigny",
+        "1471": "Valence TGV Rh\u00f4ne-Alpes Sud",
+        "1329": "Nogent - Le Perreux",
+        "1124": "Deuil - Montmagny",
+        "1648": "Douai",
+        "718": "La Barre Ormesson",
+        "63": "Boussy-Saint-Antoine",
+        "896": "Roissy-en-Brie",
+        "2005": "Valenciennes",
+        "929": "Saint-Michel-sur-Orge",
+        "1018": "Annecy",
+        "263": "Le Stade",
+        "256": "Le Ch\u00e9nay Gagny",
+        "1031": "Avignon Centre",
+        "241": "La Rochelle",
+        "2130": "Cernay",
+        "2019": "Vernouillet - Verneuil",
+        "43": "Besan\u00e7on-Viotte",
+        "1672": "Fontenay-le-Fleury",
+        "1980": "S\u00e8vres - Ville-d'Avray",
+        "1142": "\u00c9tampes",
+        "97": "Chantilly - Gouvieux",
+        "1020": "Antibes",
+        "1826": "Massy TGV",
+        "1287": "Mitry - Claye",
+        "319": "Montereau",
+        "1236": "Le Vert de Maisons",
+        "642": "Domont",
+        "2027": "Villefranche-sur-Sa\u00f4ne",
+        "744": "Le Bras de Fer",
+        "2035": "Viroflay Rive Droite",
+        "2481": "S\u00e9lestat",
+        "483": "Valence Ville",
+        "1074": "Brest",
+        "2147": "Chaville Rive Droite",
+        "845": "Nice Riquier",
+        "268": "Les Boullereaux Champigny",
+        "616": "Compi\u00e8gne",
+        "866": "Plaisir - Grignon",
+        "357": "Parc des expositions",
+        "1416": "Saint-Leu-la-For\u00eat",
+        "655": "\u00c9pinay-sur-Orge",
+        "2061": "Angoul\u00eame",
+        "991": "Villepinte",
+        "2236": "La Celle-Saint-Cloud",
+        "267": "Les Ardoines",
+        "1324": "Narbonne",
+        "2504": "Tournan"
+    },
+    "timezone": {
+        "1342": "Europe\/Paris",
+        "1887": "Europe\/Paris",
+        "360": "Europe\/Paris",
+        "1343": "Europe\/Paris",
+        "359": "Europe\/Paris",
+        "1269": "Europe\/Paris",
+        "229": "Europe\/Paris",
+        "219": "Europe\/Paris",
+        "2438": "Europe\/Paris",
+        "2097": "Europe\/Paris",
+        "541": "Europe\/Paris",
+        "1252": "Europe\/Paris",
+        "156": "Europe\/Paris",
+        "460": "Europe\/Paris",
+        "1063": "Europe\/Paris",
+        "1886": "Europe\/Paris",
+        "494": "Europe\/Paris",
+        "2266": "Europe\/Paris",
+        "15": "Europe\/Paris",
+        "1279": "Europe\/Paris",
+        "976": "Europe\/Paris",
+        "1524": "Europe\/Paris",
+        "708": "Europe\/Paris",
+        "846": "Europe\/Paris",
+        "843": "Europe\/Paris",
+        "155": "Europe\/Paris",
+        "1685": "Europe\/Paris",
+        "2531": "Europe\/Paris",
+        "1564": "Europe\/Paris",
+        "1380": "Europe\/Paris",
+        "308": "Europe\/Paris",
+        "2246": "Europe\/Paris",
+        "1004": "Europe\/Paris",
+        "2503": "Europe\/Paris",
+        "1086": "Europe\/Paris",
+        "1201": "Europe\/Paris",
+        "396": "Europe\/Paris",
+        "1814": "Europe\/Paris",
+        "613": "Europe\/Paris",
+        "1352": "Europe\/Paris",
+        "107": "Europe\/Paris",
+        "36": "Europe\/Paris",
+        "1892": "Europe\/Paris",
+        "443": "Europe\/Paris",
+        "509": "Europe\/Paris",
+        "2466": "Europe\/Paris",
+        "1327": "Europe\/Paris",
+        "1612": "Europe\/Paris",
+        "663": "Europe\/Paris",
+        "797": "Europe\/Paris",
+        "2359": "Europe\/Paris",
+        "2329": "Europe\/Paris",
+        "1940": "Europe\/Paris",
+        "859": "Europe\/Paris",
+        "618": "Europe\/Paris",
+        "1868": "Europe\/Paris",
+        "689": "Europe\/Paris",
+        "1273": "Europe\/Paris",
+        "957": "Europe\/Paris",
+        "1282": "Europe\/Paris",
+        "1498": "Europe\/Paris",
+        "880": "Europe\/Paris",
+        "831": "Europe\/Paris",
+        "1897": "Europe\/Paris",
+        "1649": "Europe\/Paris",
+        "1445": "Europe\/Paris",
+        "789": "Europe\/Paris",
+        "593": "Europe\/Paris",
+        "2181": "Europe\/Paris",
+        "1135": "Europe\/Paris",
+        "1929": "Europe\/Paris",
+        "1589": "Europe\/Paris",
+        "1436": "Europe\/Paris",
+        "2165": "Europe\/Paris",
+        "1003": "Europe\/Paris",
+        "1291": "Europe\/Paris",
+        "2275": "Europe\/Paris",
+        "134": "Europe\/Paris",
+        "2519": "Europe\/Paris",
+        "975": "Europe\/Paris",
+        "534": "Europe\/Paris",
+        "969": "Europe\/Paris",
+        "693": "Europe\/Paris",
+        "1251": "Europe\/Paris",
+        "2058": "Europe\/Paris",
+        "2162": "Europe\/Paris",
+        "683": "Europe\/Paris",
+        "1485": "Europe\/Paris",
+        "1076": "Europe\/Paris",
+        "941": "Europe\/Paris",
+        "900": "Europe\/Paris",
+        "1927": "Europe\/Paris",
+        "501": "Europe\/Paris",
+        "1681": "Europe\/Paris",
+        "568": "Europe\/Paris",
+        "625": "Europe\/Paris",
+        "1153": "Europe\/Paris",
+        "1245": "Europe\/Paris",
+        "1862": "Europe\/Paris",
+        "754": "Europe\/Paris",
+        "233": "Europe\/Paris",
+        "2295": "Europe\/Paris",
+        "2485": "Europe\/Paris",
+        "358": "Europe\/Paris",
+        "2535": "Europe\/Paris",
+        "1278": "Europe\/Paris",
+        "1851": "Europe\/Paris",
+        "1775": "Europe\/Paris",
+        "1582": "Europe\/Paris",
+        "1999": "Europe\/Paris",
+        "856": "Europe\/Paris",
+        "1634": "Europe\/Paris",
+        "343": "Europe\/Paris",
+        "1594": "Europe\/Paris",
+        "190": "Europe\/Paris",
+        "1375": "Europe\/Paris",
+        "1079": "Europe\/Paris",
+        "2079": "Europe\/Paris",
+        "114": "Europe\/Paris",
+        "2157": "Europe\/Paris",
+        "2166": "Europe\/Paris",
+        "653": "Europe\/Paris",
+        "1022": "Europe\/Paris",
+        "1943": "Europe\/Paris",
+        "1496": "Europe\/Paris",
+        "1367": "Europe\/Paris",
+        "1913": "Europe\/Paris",
+        "2473": "Europe\/Paris",
+        "990": "Europe\/Paris",
+        "364": "Europe\/Paris",
+        "1959": "Europe\/Paris",
+        "807": "Europe\/Paris",
+        "79": "Europe\/Paris",
+        "2050": "Europe\/Paris",
+        "1508": "Europe\/Paris",
+        "914": "Europe\/Paris",
+        "527": "Europe\/Paris",
+        "2167": "Europe\/Paris",
+        "2489": "Europe\/Paris",
+        "944": "Europe\/Paris",
+        "1353": "Europe\/Paris",
+        "2251": "Europe\/Paris",
+        "970": "Europe\/Paris",
+        "2138": "Europe\/Paris",
+        "827": "Europe\/Paris",
+        "202": "Europe\/Paris",
+        "1761": "Europe\/Paris",
+        "964": "Europe\/Paris",
+        "413": "Europe\/Paris",
+        "2365": "Europe\/Paris",
+        "168": "Europe\/Paris",
+        "1625": "Europe\/Paris",
+        "733": "Europe\/Paris",
+        "1471": "Europe\/Paris",
+        "1329": "Europe\/Paris",
+        "1124": "Europe\/Paris",
+        "1648": "Europe\/Paris",
+        "718": "Europe\/Paris",
+        "63": "Europe\/Paris",
+        "896": "Europe\/Paris",
+        "2005": "Europe\/Paris",
+        "929": "Europe\/Paris",
+        "1018": "Europe\/Paris",
+        "263": "Europe\/Paris",
+        "256": "Europe\/Paris",
+        "1031": "Europe\/Paris",
+        "241": "Europe\/Paris",
+        "2130": "Europe\/Paris",
+        "2019": "Europe\/Paris",
+        "43": "Europe\/Paris",
+        "1672": "Europe\/Paris",
+        "1980": "Europe\/Paris",
+        "1142": "Europe\/Paris",
+        "97": "Europe\/Paris",
+        "1020": "Europe\/Paris",
+        "1826": "Europe\/Paris",
+        "1287": "Europe\/Paris",
+        "319": "Europe\/Paris",
+        "1236": "Europe\/Paris",
+        "642": "Europe\/Paris",
+        "2027": "Europe\/Paris",
+        "744": "Europe\/Paris",
+        "2035": "Europe\/Paris",
+        "2481": "Europe\/Paris",
+        "483": "Europe\/Paris",
+        "1074": "Europe\/Paris",
+        "2147": "Europe\/Paris",
+        "845": "Europe\/Paris",
+        "268": "Europe\/Paris",
+        "616": "Europe\/Paris",
+        "866": "Europe\/Paris",
+        "357": "Europe\/Paris",
+        "1416": "Europe\/Paris",
+        "655": "Europe\/Paris",
+        "2061": "Europe\/Paris",
+        "991": "Europe\/Paris",
+        "2236": "Europe\/Paris",
+        "267": "Europe\/Paris",
+        "1324": "Europe\/Paris",
+        "2504": "Europe\/Paris"
+    },
+    "label": {
+        "1342": "Paris Nord (Paris)",
+        "1887": "Paris Saint-Lazare (Paris)",
+        "360": "Paris - Gare de Lyon - Hall 1 & 2 (Paris)",
+        "1343": "Paris - Montparnasse - Hall 1 & 2 (Paris)",
+        "359": "Paris Est (Paris)",
+        "1269": "Lyon Part Dieu (Lyon)",
+        "229": "La D\u00e9fense (Puteaux)",
+        "219": "Juvisy (Juvisy-sur-Orge)",
+        "2438": "Saint-Denis (Saint-Denis)",
+        "2097": "Biblioth\u00e8que Fran\u00e7ois Mitterrand (Paris)",
+        "541": "Aulnay-sous-Bois (Aulnay-sous-Bois)",
+        "1252": "Lille Flandres (Lille)",
+        "156": "Ermont - Eaubonne (Ermont)",
+        "460": "Strasbourg (Strasbourg)",
+        "1063": "Bordeaux Saint-Jean (Bordeaux)",
+        "1886": "Paris Austerlitz (Paris)",
+        "494": "Versailles Chantiers (Versailles)",
+        "2266": "Le Bourget (Le Bourget)",
+        "15": "Asni\u00e8res-sur-Seine (Asni\u00e8res-sur-Seine)",
+        "1279": "Marseille Saint-Charles (Marseille)",
+        "976": "Val de Fontenay (Fontenay-sous-Bois)",
+        "1524": "Argenteuil (Argenteuil)",
+        "708": "Houilles - Carri\u00e8res-sur-Seine (Houilles)",
+        "846": "Noisy-le-Sec (Noisy-le-Sec)",
+        "843": "Nantes (Nantes)",
+        "155": "\u00c9pinay - Villetaneuse (\u00c9pinay-sur-Seine)",
+        "1685": "Garges - Sarcelles (Garges-l\u00e8s-Gonesse)",
+        "2531": "Villeneuve-Saint-Georges (Villeneuve-Saint-Georges)",
+        "1564": "Bondy (Bondy)",
+        "1380": "Rennes (Rennes)",
+        "308": "Melun (Melun)",
+        "2246": "La Plaine Stade de France - Saint-Denis - Aubervilliers (Saint-Denis)",
+        "1004": "A\u00e9roport Charles de Gaulle 2 TGV (Tremblay-en-France)",
+        "2503": "Toulouse Matabiau (Toulouse)",
+        "1086": "Cergy Pr\u00e9fecture (Cergy)",
+        "1201": "La Courneuve - Aubervilliers (La Courneuve)",
+        "396": "Rosa Parks (Paris)",
+        "1814": "Maisons-Alfort - Alfortville (Maisons-Alfort)",
+        "613": "Clichy - Levallois (Levallois-Perret)",
+        "1352": "Poissy (Poissy)",
+        "107": "Choisy-le-Roi (Choisy-le-Roi)",
+        "36": "B\u00e9con les Bruy\u00e8res (Courbevoie)",
+        "1892": "Pierrefitte - Stains (Pierrefitte-sur-Seine)",
+        "443": "Sartrouville (Sartrouville)",
+        "509": "Villiers-le-Bel - Gonesse - Arnouville (Arnouville)",
+        "2466": "Saint-Quentin en Yvelines - Montigny-le-Bretonneux (Montigny-le-Bretonneux)",
+        "1327": "Nice (Nice)",
+        "1612": "Chelles - Gournay (Chelles)",
+        "663": "\u00c9vry - Courcouronnes (\u00c9vry-Courcouronnes)",
+        "797": "Mantes-la-Jolie (Mantes-la-Jolie)",
+        "2359": "Nancy (Nancy)",
+        "2329": "Metz (Metz)",
+        "1940": "Saint-Cloud (Saint-Cloud)",
+        "859": "Pantin (Pantin)",
+        "618": "Corbeil-Essonnes (Corbeil-Essonnes)",
+        "1868": "Nanterre Universit\u00e9 (Nanterre)",
+        "689": "Grenoble (Grenoble)",
+        "1273": "Maisons-Laffitte (Maisons-Laffitte)",
+        "957": "Stade de France - Saint-Denis (Saint-Denis)",
+        "1282": "Meaux (Meaux)",
+        "1498": "Villiers-sur-Marne - Le Plessis-Tr\u00e9vise (Villiers-sur-Marne)",
+        "880": "Pontoise (Pontoise)",
+        "831": "Montpellier Saint-Roch (Montpellier)",
+        "1897": "Pont Cardinet (Paris)",
+        "1649": "Drancy (Drancy)",
+        "1445": "Sevran Beaudottes (Sevran)",
+        "789": "Lyon Perrache (Lyon)",
+        "593": "Cergy le Haut (Cergy)",
+        "2181": "Dijon (Dijon)",
+        "1135": "Enghien-les-Bains (Enghien-les-Bains)",
+        "1929": "Rouen Rive Droite (Rouen)",
+        "1589": "Cergy Saint-Christophe (Cergy)",
+        "1436": "Savigny-sur-Orge (Savigny-sur-Orge)",
+        "2165": "Conflans Fin d'Oise (Conflans-Sainte-Honorine)",
+        "1003": "A\u00e9roport Roissy Charles de Gaulle 1 (Tremblay-en-France)",
+        "1291": "Monaco Monte Carlo (Monaco)",
+        "2275": "Le Raincy - Villemomble - Montfermeil (Le Raincy)",
+        "134": "Cr\u00e9teil - Pompadour (Cr\u00e9teil)",
+        "2519": "Vert Galant (Villepinte)",
+        "975": "Val d'Argenteuil (Argenteuil)",
+        "534": "Angers Saint-Laud (Angers)",
+        "969": "Tours (Tours)",
+        "693": "Grigny Centre (Grigny)",
+        "1251": "Lille Europe (Lille)",
+        "2058": "Amiens (Amiens)",
+        "2162": "Colombes (Colombes)",
+        "683": "Gargan (Les Pavillons-sous-Bois)",
+        "1485": "Versailles Rive Droite (Versailles)",
+        "1076": "Br\u00e9tigny (Br\u00e9tigny-sur-Orge)",
+        "941": "Sarcelles - Saint-Brice (Saint-Brice-sous-For\u00eat)",
+        "900": "Rosny-sous-Bois (Rosny-sous-Bois)",
+        "1927": "Rosny Bois-Perrier (Rosny-sous-Bois)",
+        "501": "Vigneux-sur-Seine (Vigneux-sur-Seine)",
+        "1681": "Gagny (Gagny)",
+        "568": "Bois-Colombes (Bois-Colombes)",
+        "625": "Creil (Creil)",
+        "1153": "Franconville - Le Plessis-Bouchard (Franconville)",
+        "1245": "Les Vall\u00e9es (La Garenne-Colombes)",
+        "1862": "Mulhouse (Mulhouse)",
+        "754": "Le Mans (Le Mans)",
+        "233": "La Garenne-Colombes (La Garenne-Colombes)",
+        "2295": "Lieusaint - Moissy (Lieusaint)",
+        "2485": "Sevran - Livry (Sevran)",
+        "358": "Paris-Bercy Bourgogne - Pays d'Auvergne (Paris)",
+        "2535": "Viroflay Rive Gauche (Viroflay)",
+        "1278": "Marne-la-Vall\u00e9e - Chessy (Chessy)",
+        "1851": "Montigny - Beauchamp (Beauchamp)",
+        "1775": "Les Mureaux (Les Mureaux)",
+        "1582": "Cannes (Cannes)",
+        "1999": "Toulon (Toulon)",
+        "856": "Orl\u00e9ans (Orl\u00e9ans)",
+        "1634": "Courbevoie (Courbevoie)",
+        "343": "N\u00eemes Centre (N\u00eemes)",
+        "1594": "Chamb\u00e9ry - Challes-les-Eaux (Chamb\u00e9ry)",
+        "190": "Goussainville (Goussainville)",
+        "1375": "Reims (Reims)",
+        "1079": "Brunoy (Brunoy)",
+        "2079": "Avignon TGV (Avignon)",
+        "114": "Colmar (Colmar)",
+        "2157": "Clermont-Ferrand (Clermont-Ferrand)",
+        "2166": "Conflans-Sainte-Honorine (Conflans-Sainte-Honorine)",
+        "653": "\u00c9merainville - Pontault-Combault (Pontault-Combault)",
+        "1022": "Arras (Arras)",
+        "1943": "Saint-Cyr (Saint-Cyr-l'\u00c9cole)",
+        "1496": "Villetaneuse - Universit\u00e9 (Villetaneuse)",
+        "1367": "Puteaux (Puteaux)",
+        "1913": "Rambouillet (Rambouillet)",
+        "2473": "Sannois (Sannois)",
+        "990": "Villeparisis - Mitry-le-Neuf (Mitry-Mory)",
+        "364": "Persan - Beaumont (Persan)",
+        "1959": "Saint-Pierre-des-Corps (Saint-Pierre-des-Corps)",
+        "807": "Massy-Palaiseau (Massy)",
+        "79": "Caen (Caen)",
+        "2050": "Aix-en-Provence TGV (Aix-en-Provence)",
+        "1508": "Yerres (Yerres)",
+        "914": "Saint-\u00c9tienne Ch\u00e2teaucreux (Saint-\u00c9tienne)",
+        "527": "Ach\u00e8res Ville (Ach\u00e8res)",
+        "2167": "Cormeilles-en-Parisis (Cormeilles-en-Parisis)",
+        "2489": "Suresnes Mont Val\u00e9rien (Suresnes)",
+        "944": "Savigny-le-Temple - Nandy (Savigny-le-Temple)",
+        "1353": "Poitiers (Poitiers)",
+        "2251": "La Verri\u00e8re (La Verri\u00e8re)",
+        "970": "Trappes (Trappes)",
+        "2138": "Chartres (Chartres)",
+        "827": "Montgeron - Crosne (Montgeron)",
+        "202": "Herblay (Herblay-sur-Seine)",
+        "1761": "Le Blanc-Mesnil (Le Blanc-Mesnil)",
+        "964": "Thionville (Thionville)",
+        "413": "Sainte-Genevi\u00e8ve-des-Bois (Sainte-Genevi\u00e8ve-des-Bois)",
+        "2365": "Neuville - Universit\u00e9 (Neuville-sur-Oise)",
+        "168": "Fontainebleau - Avon (Avon)",
+        "1625": "Combs-la-Ville - Quincy (Combs-la-Ville)",
+        "733": "Lagny - Thorigny (Thorigny-sur-Marne)",
+        "1471": "Valence TGV Rh\u00f4ne-Alpes Sud (Alixan)",
+        "1329": "Nogent - Le Perreux (Nogent-sur-Marne)",
+        "1124": "Deuil - Montmagny (Deuil-la-Barre)",
+        "1648": "Douai (Douai)",
+        "718": "La Barre Ormesson (Deuil-la-Barre)",
+        "63": "Boussy-Saint-Antoine (Boussy-Saint-Antoine)",
+        "896": "Roissy-en-Brie (Roissy-en-Brie)",
+        "2005": "Valenciennes (Valenciennes)",
+        "929": "Saint-Michel-sur-Orge (Saint-Michel-sur-Orge)",
+        "1018": "Annecy (Annecy)",
+        "263": "Le Stade (Colombes)",
+        "256": "Le Ch\u00e9nay Gagny (Gagny)",
+        "1031": "Avignon Centre (Avignon)",
+        "241": "La Rochelle (La Rochelle)",
+        "2130": "Cernay (Ermont)",
+        "2019": "Vernouillet - Verneuil (Verneuil-sur-Seine)",
+        "43": "Besan\u00e7on-Viotte (Besan\u00e7on)",
+        "1672": "Fontenay-le-Fleury (Fontenay-le-Fleury)",
+        "1980": "S\u00e8vres - Ville-d'Avray (S\u00e8vres)",
+        "1142": "\u00c9tampes (\u00c9tampes)",
+        "97": "Chantilly - Gouvieux (Chantilly)",
+        "1020": "Antibes (Antibes)",
+        "1826": "Massy TGV (Massy)",
+        "1287": "Mitry - Claye (Mitry-Mory)",
+        "319": "Montereau (Montereau-Fault-Yonne)",
+        "1236": "Le Vert de Maisons (Alfortville)",
+        "642": "Domont (Domont)",
+        "2027": "Villefranche-sur-Sa\u00f4ne (Villefranche-sur-Sa\u00f4ne)",
+        "744": "Le Bras de Fer (\u00c9vry-Courcouronnes)",
+        "2035": "Viroflay Rive Droite (Viroflay)",
+        "2481": "S\u00e9lestat (S\u00e9lestat)",
+        "483": "Valence Ville (Valence)",
+        "1074": "Brest (Brest)",
+        "2147": "Chaville Rive Droite (Chaville)",
+        "845": "Nice Riquier (Nice)",
+        "268": "Les Boullereaux Champigny (Champigny-sur-Marne)",
+        "616": "Compi\u00e8gne (Compi\u00e8gne)",
+        "866": "Plaisir - Grignon (Plaisir)",
+        "357": "Parc des expositions (Villepinte)",
+        "1416": "Saint-Leu-la-For\u00eat (Saint-Leu-la-For\u00eat)",
+        "655": "\u00c9pinay-sur-Orge (\u00c9pinay-sur-Orge)",
+        "2061": "Angoul\u00eame (Angoul\u00eame)",
+        "991": "Villepinte (Villepinte)",
+        "2236": "La Celle-Saint-Cloud (La Celle-Saint-Cloud)",
+        "267": "Les Ardoines (Vitry-sur-Seine)",
+        "1324": "Narbonne (Narbonne)",
+        "2504": "Tournan (Tournan-en-Brie)"
+    },
+    "longitude": {
+        "1342": 2.354851,
+        "1887": 2.325331,
+        "360": 2.373481,
+        "1343": 2.320514,
+        "359": 2.358424,
+        "1269": 4.859409,
+        "229": 2.23763,
+        "219": 2.38267,
+        "2438": 2.345952,
+        "2097": 2.37684,
+        "541": 2.494379,
+        "1252": 3.06987,
+        "156": 2.271229,
+        "460": 7.734793,
+        "1063": -0.556697,
+        "1886": 2.364891,
+        "494": 2.135883,
+        "2266": 2.425755,
+        "15": 2.283295,
+        "1279": 5.380407,
+        "976": 2.488234,
+        "1524": 2.25727,
+        "708": 2.185083,
+        "846": 2.460421,
+        "843": -1.542077,
+        "155": 2.32865,
+        "1685": 2.39078,
+        "2531": 2.446523,
+        "1564": 2.479022,
+        "1380": -1.672744,
+        "308": 2.655349,
+        "2246": 2.362621,
+        "1004": 2.570812,
+        "2503": 1.453616,
+        "1086": 2.07982,
+        "1201": 2.38443,
+        "396": 2.37397,
+        "1814": 2.426977,
+        "613": 2.2982,
+        "1352": 2.041368,
+        "107": 2.411065,
+        "36": 2.268307,
+        "1892": 2.372164,
+        "443": 2.157425,
+        "509": 2.416129,
+        "2466": 2.04523,
+        "1327": 7.261904,
+        "1612": 2.584157,
+        "663": 2.428581,
+        "797": 1.70337,
+        "2359": 6.174579,
+        "2329": 6.177052,
+        "1940": 2.217102,
+        "859": 2.400371,
+        "618": 2.47376,
+        "1868": 2.215828,
+        "689": 5.714548,
+        "1273": 2.144315,
+        "957": 2.35134,
+        "1282": 2.873823,
+        "1498": 2.542613,
+        "880": 2.095371,
+        "831": 3.880674,
+        "1897": 2.314282,
+        "1649": 2.45497,
+        "1445": 2.52474,
+        "789": 4.825777,
+        "593": 2.011872,
+        "2181": 5.027256,
+        "1135": 2.30699,
+        "1929": 1.094103,
+        "1589": 2.034437,
+        "1436": 2.35173,
+        "2165": 2.074587,
+        "1003": 2.56135,
+        "1291": 7.419747,
+        "2275": 2.512058,
+        "134": 2.435276,
+        "2519": 2.566713,
+        "975": 2.23088,
+        "534": -0.55677,
+        "969": 0.692831,
+        "693": 2.395749,
+        "1251": 3.075721,
+        "2058": 2.308277,
+        "2162": 2.25939,
+        "683": 2.517146,
+        "1485": 2.134752,
+        "1076": 2.302333,
+        "941": 2.36867,
+        "900": 2.485527,
+        "1927": 2.481459,
+        "501": 2.414398,
+        "1681": 2.526582,
+        "568": 2.272504,
+        "625": 2.469293,
+        "1153": 2.235071,
+        "1245": 2.257875,
+        "1862": 7.34316,
+        "754": 0.192614,
+        "233": 2.239641,
+        "2295": 2.56902,
+        "2485": 2.534881,
+        "358": 2.382791,
+        "2535": 2.171147,
+        "1278": 2.782626,
+        "1851": 2.197711,
+        "1775": 1.913027,
+        "1582": 7.019711,
+        "1999": 5.929404,
+        "856": 1.904242,
+        "1634": 2.247994,
+        "343": 4.365872,
+        "1594": 5.919547,
+        "190": 2.46325,
+        "1375": 4.02392,
+        "1079": 2.506522,
+        "2079": 4.786136,
+        "114": 7.347756,
+        "2157": 3.100543,
+        "2166": 2.09783,
+        "653": 2.618004,
+        "1022": 2.781314,
+        "1943": 2.073478,
+        "1496": 2.341965,
+        "1367": 2.233526,
+        "1913": 1.83154,
+        "2473": 2.26377,
+        "990": 2.602566,
+        "364": 2.27914,
+        "1959": 0.723539,
+        "807": 2.257528,
+        "79": -0.347613,
+        "2050": 5.317534,
+        "1508": 2.483326,
+        "914": 4.399722,
+        "527": 2.07739,
+        "2167": 2.193443,
+        "2489": 2.22131,
+        "944": 2.583678,
+        "1353": 0.333136,
+        "2251": 1.943674,
+        "970": 2.006684,
+        "2138": 1.481313,
+        "827": 2.462263,
+        "202": 2.161992,
+        "1761": 2.477409,
+        "964": 6.168582,
+        "413": 2.313161,
+        "2365": 2.07886,
+        "168": 2.726237,
+        "1625": 2.547728,
+        "733": 2.704274,
+        "1471": 4.978652,
+        "1329": 2.494043,
+        "1124": 2.337781,
+        "1648": 3.089958,
+        "718": 2.31688,
+        "63": 2.532726,
+        "896": 2.650165,
+        "2005": 3.517124,
+        "929": 2.306632,
+        "1018": 6.121826,
+        "263": 2.26056,
+        "256": 2.55266,
+        "1031": 4.805269,
+        "241": -1.145853,
+        "2130": 2.256768,
+        "2019": 1.982873,
+        "43": 6.021943,
+        "1672": 2.040512,
+        "1980": 2.200543,
+        "1142": 2.159487,
+        "97": 2.459771,
+        "1020": 7.119913,
+        "1826": 2.261254,
+        "1287": 2.642472,
+        "319": 2.94293,
+        "1236": 2.43148,
+        "642": 2.33747,
+        "2027": 4.720798,
+        "744": 2.450625,
+        "2035": 2.168343,
+        "2481": 7.443157,
+        "483": 4.893288,
+        "1074": -4.480306,
+        "2147": 2.18784,
+        "845": 7.290175,
+        "268": 2.511891,
+        "616": 2.823693,
+        "866": 1.943228,
+        "357": 2.51382,
+        "1416": 2.242654,
+        "655": 2.33182,
+        "2061": 0.164608,
+        "991": 2.512138,
+        "2236": 2.13797,
+        "267": 2.409117,
+        "1324": 3.005667,
+        "2504": 2.759564
+    },
+    "latitude": {
+        "1342": 48.880136,
+        "1887": 48.876242,
+        "360": 48.844945,
+        "1343": 48.841172,
+        "359": 48.876742,
+        "1269": 45.760596,
+        "229": 48.89308,
+        "219": 48.68917,
+        "2438": 48.935493,
+        "2097": 48.82984,
+        "541": 48.931869,
+        "1252": 50.636577,
+        "156": 48.980332,
+        "460": 48.584532,
+        "1063": 44.825873,
+        "1886": 48.842285,
+        "494": 48.795826,
+        "2266": 48.930926,
+        "15": 48.905803,
+        "1279": 43.302666,
+        "976": 48.853805,
+        "1524": 48.94686,
+        "708": 48.919964,
+        "846": 48.896318,
+        "843": 47.217491,
+        "155": 48.95838,
+        "1685": 48.97663,
+        "2531": 48.729972,
+        "1564": 48.894423,
+        "1380": 48.103517,
+        "308": 48.527583,
+        "2246": 48.91832,
+        "1004": 49.003618,
+        "2503": 43.611206,
+        "1086": 49.03639,
+        "1201": 48.9242,
+        "396": 48.89602,
+        "1814": 48.802071,
+        "613": 48.89678,
+        "1352": 48.932901,
+        "107": 48.763983,
+        "36": 48.90587,
+        "1892": 48.964126,
+        "443": 48.937907,
+        "509": 48.994205,
+        "2466": 48.78657,
+        "1327": 43.704556,
+        "1612": 48.874316,
+        "663": 48.625507,
+        "797": 48.98984,
+        "2359": 48.689857,
+        "2329": 49.109466,
+        "1940": 48.845475,
+        "859": 48.89777,
+        "618": 48.614405,
+        "1868": 48.90122,
+        "689": 45.191491,
+        "1273": 48.945639,
+        "957": 48.91779,
+        "1282": 48.957301,
+        "1498": 48.823386,
+        "880": 49.04706,
+        "831": 43.604738,
+        "1897": 48.887565,
+        "1649": 48.93298,
+        "1445": 48.94743,
+        "789": 45.748508,
+        "593": 49.048493,
+        "2181": 47.323411,
+        "1135": 48.97309,
+        "1929": 49.448663,
+        "1589": 49.049691,
+        "1436": 48.67614,
+        "2165": 48.989261,
+        "1003": 49.00956,
+        "1291": 43.738414,
+        "2275": 48.889311,
+        "134": 48.77154,
+        "2519": 48.944634,
+        "975": 48.95042,
+        "534": 47.464649,
+        "969": 47.389866,
+        "693": 48.653446,
+        "1251": 50.6394,
+        "2058": 49.890584,
+        "2162": 48.92383,
+        "683": 48.908225,
+        "1485": 48.809652,
+        "1076": 48.606702,
+        "941": 48.99529,
+        "900": 48.870782,
+        "1927": 48.8827,
+        "501": 48.708213,
+        "1681": 48.88309,
+        "568": 48.913535,
+        "625": 49.263775,
+        "1153": 48.993577,
+        "1245": 48.913452,
+        "1862": 47.742691,
+        "754": 47.995615,
+        "233": 48.909395,
+        "2295": 48.627158,
+        "2485": 48.936065,
+        "358": 48.839215,
+        "2535": 48.800517,
+        "1278": 48.869898,
+        "1851": 49.007575,
+        "1775": 48.992725,
+        "1582": 43.553908,
+        "1999": 43.128353,
+        "856": 47.907891,
+        "1634": 48.898288,
+        "343": 43.832313,
+        "1594": 45.571302,
+        "190": 49.024088,
+        "1375": 49.259602,
+        "1079": 48.699087,
+        "2079": 43.92194,
+        "114": 48.073527,
+        "2157": 45.778945,
+        "2166": 48.99646,
+        "653": 48.806034,
+        "1022": 50.286971,
+        "1943": 48.799002,
+        "1496": 48.959222,
+        "1367": 48.883515,
+        "1913": 48.64377,
+        "2473": 48.97016,
+        "990": 48.953267,
+        "364": 49.14795,
+        "1959": 47.38614,
+        "807": 48.726421,
+        "79": 49.176354,
+        "2050": 43.455237,
+        "1508": 48.706727,
+        "914": 45.443366,
+        "527": 48.97011,
+        "2167": 48.968668,
+        "2489": 48.87155,
+        "944": 48.595519,
+        "1353": 46.582232,
+        "2251": 48.755695,
+        "970": 48.775086,
+        "2138": 48.448202,
+        "827": 48.708074,
+        "202": 48.990386,
+        "1761": 48.932484,
+        "964": 49.353965,
+        "413": 48.653245,
+        "2365": 49.01426,
+        "168": 48.416331,
+        "1625": 48.66721,
+        "733": 48.881821,
+        "1471": 44.991907,
+        "1329": 48.838415,
+        "1124": 48.975851,
+        "1648": 50.371673,
+        "718": 48.96633,
+        "63": 48.680893,
+        "896": 48.795481,
+        "2005": 50.363187,
+        "929": 48.635479,
+        "1018": 45.902047,
+        "263": 48.93093,
+        "256": 48.876805,
+        "1031": 43.941923,
+        "241": 46.152705,
+        "2130": 48.985405,
+        "2019": 48.981188,
+        "43": 47.247049,
+        "1672": 48.807385,
+        "1980": 48.827451,
+        "1142": 48.436625,
+        "97": 49.187219,
+        "1020": 43.585971,
+        "1826": 48.725758,
+        "1287": 48.975758,
+        "319": 48.379902,
+        "1236": 48.78934,
+        "642": 49.032703,
+        "2027": 45.984482,
+        "744": 48.623287,
+        "2035": 48.80566,
+        "2481": 48.259824,
+        "483": 44.928081,
+        "1074": 48.38762,
+        "2147": 48.812152,
+        "845": 43.705554,
+        "268": 48.824969,
+        "616": 49.421977,
+        "866": 48.831726,
+        "357": 48.973383,
+        "1416": 49.015706,
+        "655": 48.66952,
+        "2061": 45.653572,
+        "991": 48.963006,
+        "2236": 48.84259,
+        "267": 48.783017,
+        "1324": 43.190618,
+        "2504": 48.739327
+    },
+    "id_region_ad": {
+        "1342": "admin:fr:75056",
+        "1887": "admin:fr:75056",
+        "360": "admin:fr:75056",
+        "1343": "admin:fr:75056",
+        "359": "admin:fr:75056",
+        "1269": "admin:fr:69123",
+        "229": "admin:fr:92062",
+        "219": "admin:fr:91326",
+        "2438": "admin:fr:93066",
+        "2097": "admin:fr:75056",
+        "541": "admin:fr:93005",
+        "1252": "admin:fr:59350",
+        "156": "admin:fr:95219",
+        "460": "admin:fr:67482",
+        "1063": "admin:fr:33063",
+        "1886": "admin:fr:75056",
+        "494": "admin:fr:78646",
+        "2266": "admin:fr:93013",
+        "15": "admin:fr:92004",
+        "1279": "admin:fr:13055",
+        "976": "admin:fr:94033",
+        "1524": "admin:fr:95018",
+        "708": "admin:fr:78311",
+        "846": "admin:fr:93053",
+        "843": "admin:fr:44109",
+        "155": "admin:fr:93031",
+        "1685": "admin:fr:95268",
+        "2531": "admin:fr:94078",
+        "1564": "admin:fr:93010",
+        "1380": "admin:fr:35238",
+        "308": "admin:fr:77288",
+        "2246": "admin:fr:93066",
+        "1004": "admin:fr:93073",
+        "2503": "admin:fr:31555",
+        "1086": "admin:fr:95127",
+        "1201": "admin:fr:93027",
+        "396": "admin:fr:75056",
+        "1814": "admin:fr:94046",
+        "613": "admin:fr:92044",
+        "1352": "admin:fr:78498",
+        "107": "admin:fr:94022",
+        "36": "admin:fr:92026",
+        "1892": "admin:fr:93059",
+        "443": "admin:fr:78586",
+        "509": "admin:fr:95019",
+        "2466": "admin:fr:78423",
+        "1327": "admin:fr:06088",
+        "1612": "admin:fr:77108",
+        "663": "admin:fr:91228",
+        "797": "admin:fr:78361",
+        "2359": "admin:fr:54395",
+        "2329": "admin:fr:57463",
+        "1940": "admin:fr:92064",
+        "859": "admin:fr:93055",
+        "618": "admin:fr:91174",
+        "1868": "admin:fr:92050",
+        "689": "admin:fr:38185",
+        "1273": "admin:fr:78358",
+        "957": "admin:fr:93066",
+        "1282": "admin:fr:77284",
+        "1498": "admin:fr:94079",
+        "880": "admin:fr:95500",
+        "831": "admin:fr:34172",
+        "1897": "admin:fr:75056",
+        "1649": "admin:fr:93029",
+        "1445": "admin:fr:93071",
+        "789": "admin:fr:69123",
+        "593": "admin:fr:95127",
+        "2181": "admin:fr:21231",
+        "1135": "admin:fr:95210",
+        "1929": "admin:fr:76540",
+        "1589": "admin:fr:95127",
+        "1436": "admin:fr:91589",
+        "2165": "admin:fr:78172",
+        "1003": "admin:fr:93073",
+        "1291": "admin:osm:relation:2220322",
+        "2275": "admin:fr:93062",
+        "134": "admin:fr:94028",
+        "2519": "admin:fr:93078",
+        "975": "admin:fr:95018",
+        "534": "admin:fr:49007",
+        "969": "admin:fr:37261",
+        "693": "admin:fr:91286",
+        "1251": "admin:fr:59350",
+        "2058": "admin:fr:80021",
+        "2162": "admin:fr:92025",
+        "683": "admin:fr:93057",
+        "1485": "admin:fr:78646",
+        "1076": "admin:fr:91103",
+        "941": "admin:fr:95539",
+        "900": "admin:fr:93064",
+        "1927": "admin:fr:93064",
+        "501": "admin:fr:91657",
+        "1681": "admin:fr:93032",
+        "568": "admin:fr:92009",
+        "625": "admin:fr:60175",
+        "1153": "admin:fr:95252",
+        "1245": "admin:fr:92035",
+        "1862": "admin:fr:68224",
+        "754": "admin:fr:72181",
+        "233": "admin:fr:92035",
+        "2295": "admin:fr:77251",
+        "2485": "admin:fr:93071",
+        "358": "admin:fr:75056",
+        "2535": "admin:fr:78686",
+        "1278": "admin:fr:77111",
+        "1851": "admin:fr:95051",
+        "1775": "admin:fr:78440",
+        "1582": "admin:fr:06029",
+        "1999": "admin:fr:83137",
+        "856": "admin:fr:45234",
+        "1634": "admin:fr:92026",
+        "343": "admin:fr:30189",
+        "1594": "admin:fr:73065",
+        "190": "admin:fr:95280",
+        "1375": "admin:fr:51454",
+        "1079": "admin:fr:91114",
+        "2079": "admin:fr:84007",
+        "114": "admin:fr:68066",
+        "2157": "admin:fr:63113",
+        "2166": "admin:fr:78172",
+        "653": "admin:fr:77373",
+        "1022": "admin:fr:62041",
+        "1943": "admin:fr:78545",
+        "1496": "admin:fr:93079",
+        "1367": "admin:fr:92062",
+        "1913": "admin:fr:78517",
+        "2473": "admin:fr:95582",
+        "990": "admin:fr:77294",
+        "364": "admin:fr:95487",
+        "1959": "admin:fr:37233",
+        "807": "admin:fr:91377",
+        "79": "admin:fr:14118",
+        "2050": "admin:fr:13001",
+        "1508": "admin:fr:91691",
+        "914": "admin:fr:42218",
+        "527": "admin:fr:78005",
+        "2167": "admin:fr:95176",
+        "2489": "admin:fr:92073",
+        "944": "admin:fr:77445",
+        "1353": "admin:fr:86194",
+        "2251": "admin:fr:78644",
+        "970": "admin:fr:78621",
+        "2138": "admin:fr:28085",
+        "827": "admin:fr:91421",
+        "202": "admin:fr:95306",
+        "1761": "admin:fr:93007",
+        "964": "admin:fr:57672",
+        "413": "admin:fr:91549",
+        "2365": "admin:fr:95450",
+        "168": "admin:fr:77014",
+        "1625": "admin:fr:77122",
+        "733": "admin:fr:77464",
+        "1471": "admin:fr:26004",
+        "1329": "admin:fr:94052",
+        "1124": "admin:fr:95197",
+        "1648": "admin:fr:59178",
+        "718": "admin:fr:95197",
+        "63": "admin:fr:91097",
+        "896": "admin:fr:77390",
+        "2005": "admin:fr:59606",
+        "929": "admin:fr:91570",
+        "1018": "admin:fr:74010",
+        "263": "admin:fr:92025",
+        "256": "admin:fr:93032",
+        "1031": "admin:fr:84007",
+        "241": "admin:fr:17300",
+        "2130": "admin:fr:95219",
+        "2019": "admin:fr:78642",
+        "43": "admin:fr:25056",
+        "1672": "admin:fr:78242",
+        "1980": "admin:fr:92072",
+        "1142": "admin:fr:91223",
+        "97": "admin:fr:60141",
+        "1020": "admin:fr:06004",
+        "1826": "admin:fr:91377",
+        "1287": "admin:fr:77294",
+        "319": "admin:fr:77305",
+        "1236": "admin:fr:94002",
+        "642": "admin:fr:95199",
+        "2027": "admin:fr:69264",
+        "744": "admin:fr:91228",
+        "2035": "admin:fr:78686",
+        "2481": "admin:fr:67462",
+        "483": "admin:fr:26362",
+        "1074": "admin:fr:29019",
+        "2147": "admin:fr:92022",
+        "845": "admin:fr:06088",
+        "268": "admin:fr:94017",
+        "616": "admin:fr:60159",
+        "866": "admin:fr:78490",
+        "357": "admin:fr:93078",
+        "1416": "admin:fr:95563",
+        "655": "admin:fr:91216",
+        "2061": "admin:fr:16015",
+        "991": "admin:fr:93078",
+        "2236": "admin:fr:78126",
+        "267": "admin:fr:94081",
+        "1324": "admin:fr:11262",
+        "2504": "admin:fr:77470"
+    },
+    "nom_region_ad": {
+        "1342": "Paris",
+        "1887": "Paris",
+        "360": "Paris",
+        "1343": "Paris",
+        "359": "Paris",
+        "1269": "Lyon",
+        "229": "Puteaux",
+        "219": "Juvisy-sur-Orge",
+        "2438": "Saint-Denis",
+        "2097": "Paris",
+        "541": "Aulnay-sous-Bois",
+        "1252": "Lille",
+        "156": "Ermont",
+        "460": "Strasbourg",
+        "1063": "Bordeaux",
+        "1886": "Paris",
+        "494": "Versailles",
+        "2266": "Le Bourget",
+        "15": "Asni\u00e8res-sur-Seine",
+        "1279": "Marseille",
+        "976": "Fontenay-sous-Bois",
+        "1524": "Argenteuil",
+        "708": "Houilles",
+        "846": "Noisy-le-Sec",
+        "843": "Nantes",
+        "155": "\u00c9pinay-sur-Seine",
+        "1685": "Garges-l\u00e8s-Gonesse",
+        "2531": "Villeneuve-Saint-Georges",
+        "1564": "Bondy",
+        "1380": "Rennes",
+        "308": "Melun",
+        "2246": "Saint-Denis",
+        "1004": "Tremblay-en-France",
+        "2503": "Toulouse",
+        "1086": "Cergy",
+        "1201": "La Courneuve",
+        "396": "Paris",
+        "1814": "Maisons-Alfort",
+        "613": "Levallois-Perret",
+        "1352": "Poissy",
+        "107": "Choisy-le-Roi",
+        "36": "Courbevoie",
+        "1892": "Pierrefitte-sur-Seine",
+        "443": "Sartrouville",
+        "509": "Arnouville",
+        "2466": "Montigny-le-Bretonneux",
+        "1327": "Nice",
+        "1612": "Chelles",
+        "663": "\u00c9vry-Courcouronnes",
+        "797": "Mantes-la-Jolie",
+        "2359": "Nancy",
+        "2329": "Metz",
+        "1940": "Saint-Cloud",
+        "859": "Pantin",
+        "618": "Corbeil-Essonnes",
+        "1868": "Nanterre",
+        "689": "Grenoble",
+        "1273": "Maisons-Laffitte",
+        "957": "Saint-Denis",
+        "1282": "Meaux",
+        "1498": "Villiers-sur-Marne",
+        "880": "Pontoise",
+        "831": "Montpellier",
+        "1897": "Paris",
+        "1649": "Drancy",
+        "1445": "Sevran",
+        "789": "Lyon",
+        "593": "Cergy",
+        "2181": "Dijon",
+        "1135": "Enghien-les-Bains",
+        "1929": "Rouen",
+        "1589": "Cergy",
+        "1436": "Savigny-sur-Orge",
+        "2165": "Conflans-Sainte-Honorine",
+        "1003": "Tremblay-en-France",
+        "1291": "Monaco",
+        "2275": "Le Raincy",
+        "134": "Cr\u00e9teil",
+        "2519": "Villepinte",
+        "975": "Argenteuil",
+        "534": "Angers",
+        "969": "Tours",
+        "693": "Grigny",
+        "1251": "Lille",
+        "2058": "Amiens",
+        "2162": "Colombes",
+        "683": "Les Pavillons-sous-Bois",
+        "1485": "Versailles",
+        "1076": "Br\u00e9tigny-sur-Orge",
+        "941": "Saint-Brice-sous-For\u00eat",
+        "900": "Rosny-sous-Bois",
+        "1927": "Rosny-sous-Bois",
+        "501": "Vigneux-sur-Seine",
+        "1681": "Gagny",
+        "568": "Bois-Colombes",
+        "625": "Creil",
+        "1153": "Franconville",
+        "1245": "La Garenne-Colombes",
+        "1862": "Mulhouse",
+        "754": "Le Mans",
+        "233": "La Garenne-Colombes",
+        "2295": "Lieusaint",
+        "2485": "Sevran",
+        "358": "Paris",
+        "2535": "Viroflay",
+        "1278": "Chessy",
+        "1851": "Beauchamp",
+        "1775": "Les Mureaux",
+        "1582": "Cannes",
+        "1999": "Toulon",
+        "856": "Orl\u00e9ans",
+        "1634": "Courbevoie",
+        "343": "N\u00eemes",
+        "1594": "Chamb\u00e9ry",
+        "190": "Goussainville",
+        "1375": "Reims",
+        "1079": "Brunoy",
+        "2079": "Avignon",
+        "114": "Colmar",
+        "2157": "Clermont-Ferrand",
+        "2166": "Conflans-Sainte-Honorine",
+        "653": "Pontault-Combault",
+        "1022": "Arras",
+        "1943": "Saint-Cyr-l'\u00c9cole",
+        "1496": "Villetaneuse",
+        "1367": "Puteaux",
+        "1913": "Rambouillet",
+        "2473": "Sannois",
+        "990": "Mitry-Mory",
+        "364": "Persan",
+        "1959": "Saint-Pierre-des-Corps",
+        "807": "Massy",
+        "79": "Caen",
+        "2050": "Aix-en-Provence",
+        "1508": "Yerres",
+        "914": "Saint-\u00c9tienne",
+        "527": "Ach\u00e8res",
+        "2167": "Cormeilles-en-Parisis",
+        "2489": "Suresnes",
+        "944": "Savigny-le-Temple",
+        "1353": "Poitiers",
+        "2251": "La Verri\u00e8re",
+        "970": "Trappes",
+        "2138": "Chartres",
+        "827": "Montgeron",
+        "202": "Herblay-sur-Seine",
+        "1761": "Le Blanc-Mesnil",
+        "964": "Thionville",
+        "413": "Sainte-Genevi\u00e8ve-des-Bois",
+        "2365": "Neuville-sur-Oise",
+        "168": "Avon",
+        "1625": "Combs-la-Ville",
+        "733": "Thorigny-sur-Marne",
+        "1471": "Alixan",
+        "1329": "Nogent-sur-Marne",
+        "1124": "Deuil-la-Barre",
+        "1648": "Douai",
+        "718": "Deuil-la-Barre",
+        "63": "Boussy-Saint-Antoine",
+        "896": "Roissy-en-Brie",
+        "2005": "Valenciennes",
+        "929": "Saint-Michel-sur-Orge",
+        "1018": "Annecy",
+        "263": "Colombes",
+        "256": "Gagny",
+        "1031": "Avignon",
+        "241": "La Rochelle",
+        "2130": "Ermont",
+        "2019": "Verneuil-sur-Seine",
+        "43": "Besan\u00e7on",
+        "1672": "Fontenay-le-Fleury",
+        "1980": "S\u00e8vres",
+        "1142": "\u00c9tampes",
+        "97": "Chantilly",
+        "1020": "Antibes",
+        "1826": "Massy",
+        "1287": "Mitry-Mory",
+        "319": "Montereau-Fault-Yonne",
+        "1236": "Alfortville",
+        "642": "Domont",
+        "2027": "Villefranche-sur-Sa\u00f4ne",
+        "744": "\u00c9vry-Courcouronnes",
+        "2035": "Viroflay",
+        "2481": "S\u00e9lestat",
+        "483": "Valence",
+        "1074": "Brest",
+        "2147": "Chaville",
+        "845": "Nice",
+        "268": "Champigny-sur-Marne",
+        "616": "Compi\u00e8gne",
+        "866": "Plaisir",
+        "357": "Villepinte",
+        "1416": "Saint-Leu-la-For\u00eat",
+        "655": "\u00c9pinay-sur-Orge",
+        "2061": "Angoul\u00eame",
+        "991": "Villepinte",
+        "2236": "La Celle-Saint-Cloud",
+        "267": "Vitry-sur-Seine",
+        "1324": "Narbonne",
+        "2504": "Tournan-en-Brie"
+    },
+    "zip_code": {
+        "1342": "75000;75116",
+        "1887": "75000;75116",
+        "360": "75000;75116",
+        "1343": "75000;75116",
+        "359": "75000;75116",
+        "1269": null,
+        "229": "92800",
+        "219": "91260",
+        "2438": "93200",
+        "2097": "75000;75116",
+        "541": "93600",
+        "1252": "59000;59800",
+        "156": "95120",
+        "460": "67000;67200",
+        "1063": "33000;33800",
+        "1886": "75000;75116",
+        "494": "78000",
+        "2266": "93350",
+        "15": "92600",
+        "1279": "13000",
+        "976": "94120",
+        "1524": "95100",
+        "708": "78800",
+        "846": "93130",
+        "843": "44000;44300",
+        "155": "93800",
+        "1685": "95140",
+        "2531": "94190",
+        "1564": "93140",
+        "1380": "35000;35700",
+        "308": "77000",
+        "2246": "93200",
+        "1004": "93290",
+        "2503": "31000;31500",
+        "1086": "95000;95800",
+        "1201": "93120",
+        "396": "75000;75116",
+        "1814": "94700",
+        "613": "92300",
+        "1352": "78300",
+        "107": "94600",
+        "36": "92400",
+        "1892": "93380",
+        "443": "78500",
+        "509": "95400",
+        "2466": "78180",
+        "1327": "06000;06300",
+        "1612": "77500",
+        "663": "91000;91080",
+        "797": "78200",
+        "2359": "54000;54100",
+        "2329": "57000;57070",
+        "1940": "92210",
+        "859": "93500",
+        "618": "91100",
+        "1868": "92000",
+        "689": "38000;38100",
+        "1273": "78600",
+        "957": "93200",
+        "1282": "77100",
+        "1498": "94350",
+        "880": "95000;95300",
+        "831": "34000;34090",
+        "1897": "75000;75116",
+        "1649": "93700",
+        "1445": "93270",
+        "789": null,
+        "593": "95000;95800",
+        "2181": "21000",
+        "1135": "95880",
+        "1929": "76000;76100",
+        "1589": "95000;95800",
+        "1436": "91600",
+        "2165": "78700",
+        "1003": "93290",
+        "1291": null,
+        "2275": "93340",
+        "134": "94000",
+        "2519": "93420",
+        "975": "95100",
+        "534": "49000;49100",
+        "969": "37000;37200",
+        "693": "91350",
+        "1251": "59000;59800",
+        "2058": "80000;80090",
+        "2162": "92700",
+        "683": "93320",
+        "1485": "78000",
+        "1076": "91220",
+        "941": "95350",
+        "900": "93110",
+        "1927": "93110",
+        "501": "91270",
+        "1681": "93220",
+        "568": "92270",
+        "625": "60100",
+        "1153": "95130",
+        "1245": "92250",
+        "1862": "68100;68200",
+        "754": "72000;72100",
+        "233": "92250",
+        "2295": "77127",
+        "2485": "93270",
+        "358": "75000;75116",
+        "2535": "78220",
+        "1278": "77700",
+        "1851": "95250",
+        "1775": "78130",
+        "1582": "06150;06400",
+        "1999": "83000;83200",
+        "856": "45000;45100",
+        "1634": "92400",
+        "343": "30000;30900",
+        "1594": "73000",
+        "190": "95190",
+        "1375": "51100",
+        "1079": "91800",
+        "2079": "84000;84140",
+        "114": "68000",
+        "2157": "63000;63100",
+        "2166": "78700",
+        "653": "77340",
+        "1022": "62000",
+        "1943": "78210",
+        "1496": "93430",
+        "1367": "92800",
+        "1913": "78120",
+        "2473": "95110",
+        "990": "77290",
+        "364": "95340",
+        "1959": "37700",
+        "807": "91300",
+        "79": "14000",
+        "2050": "13080;13540",
+        "1508": "91330",
+        "914": "42000;42230",
+        "527": "78260",
+        "2167": "95240",
+        "2489": "92150",
+        "944": "77176",
+        "1353": "86000",
+        "2251": "78320",
+        "970": "78190",
+        "2138": "28000",
+        "827": "91230",
+        "202": "95220",
+        "1761": "93150",
+        "964": "57100",
+        "413": "91700",
+        "2365": "95000",
+        "168": "77210",
+        "1625": "77380",
+        "733": "77400",
+        "1471": "26300",
+        "1329": "94130",
+        "1124": "95170",
+        "1648": "59500",
+        "718": "95170",
+        "63": "91800",
+        "896": "77680",
+        "2005": "59300",
+        "929": "91240",
+        "1018": "74000;74960",
+        "263": "92700",
+        "256": "93220",
+        "1031": "84000;84140",
+        "241": "17000",
+        "2130": "95120",
+        "2019": "78480",
+        "43": "25000",
+        "1672": "78330",
+        "1980": "92310",
+        "1142": "91150",
+        "97": "60500",
+        "1020": "06160;06600",
+        "1826": "91300",
+        "1287": "77290",
+        "319": "77130",
+        "1236": "94140",
+        "642": "95330",
+        "2027": "69400",
+        "744": "91000;91080",
+        "2035": "78220",
+        "2481": "67600",
+        "483": "26000",
+        "1074": "29200",
+        "2147": "92370",
+        "845": "06000;06300",
+        "268": "94500",
+        "616": "60200",
+        "866": "78370",
+        "357": "93420",
+        "1416": "95320",
+        "655": "91360",
+        "2061": "16000",
+        "991": "93420",
+        "2236": "78170",
+        "267": "94400",
+        "1324": "11100",
+        "2504": "77220"
+    },
+    "insee_region_ad": {
+        "1342": 75056.0,
+        "1887": 75056.0,
+        "360": 75056.0,
+        "1343": 75056.0,
+        "359": 75056.0,
+        "1269": 69123.0,
+        "229": 92062.0,
+        "219": 91326.0,
+        "2438": 93066.0,
+        "2097": 75056.0,
+        "541": 93005.0,
+        "1252": 59350.0,
+        "156": 95219.0,
+        "460": 67482.0,
+        "1063": 33063.0,
+        "1886": 75056.0,
+        "494": 78646.0,
+        "2266": 93013.0,
+        "15": 92004.0,
+        "1279": 13055.0,
+        "976": 94033.0,
+        "1524": 95018.0,
+        "708": 78311.0,
+        "846": 93053.0,
+        "843": 44109.0,
+        "155": 93031.0,
+        "1685": 95268.0,
+        "2531": 94078.0,
+        "1564": 93010.0,
+        "1380": 35238.0,
+        "308": 77288.0,
+        "2246": 93066.0,
+        "1004": 93073.0,
+        "2503": 31555.0,
+        "1086": 95127.0,
+        "1201": 93027.0,
+        "396": 75056.0,
+        "1814": 94046.0,
+        "613": 92044.0,
+        "1352": 78498.0,
+        "107": 94022.0,
+        "36": 92026.0,
+        "1892": 93059.0,
+        "443": 78586.0,
+        "509": 95019.0,
+        "2466": 78423.0,
+        "1327": 6088.0,
+        "1612": 77108.0,
+        "663": 91228.0,
+        "797": 78361.0,
+        "2359": 54395.0,
+        "2329": 57463.0,
+        "1940": 92064.0,
+        "859": 93055.0,
+        "618": 91174.0,
+        "1868": 92050.0,
+        "689": 38185.0,
+        "1273": 78358.0,
+        "957": 93066.0,
+        "1282": 77284.0,
+        "1498": 94079.0,
+        "880": 95500.0,
+        "831": 34172.0,
+        "1897": 75056.0,
+        "1649": 93029.0,
+        "1445": 93071.0,
+        "789": 69123.0,
+        "593": 95127.0,
+        "2181": 21231.0,
+        "1135": 95210.0,
+        "1929": 76540.0,
+        "1589": 95127.0,
+        "1436": 91589.0,
+        "2165": 78172.0,
+        "1003": 93073.0,
+        "1291": null,
+        "2275": 93062.0,
+        "134": 94028.0,
+        "2519": 93078.0,
+        "975": 95018.0,
+        "534": 49007.0,
+        "969": 37261.0,
+        "693": 91286.0,
+        "1251": 59350.0,
+        "2058": 80021.0,
+        "2162": 92025.0,
+        "683": 93057.0,
+        "1485": 78646.0,
+        "1076": 91103.0,
+        "941": 95539.0,
+        "900": 93064.0,
+        "1927": 93064.0,
+        "501": 91657.0,
+        "1681": 93032.0,
+        "568": 92009.0,
+        "625": 60175.0,
+        "1153": 95252.0,
+        "1245": 92035.0,
+        "1862": 68224.0,
+        "754": 72181.0,
+        "233": 92035.0,
+        "2295": 77251.0,
+        "2485": 93071.0,
+        "358": 75056.0,
+        "2535": 78686.0,
+        "1278": 77111.0,
+        "1851": 95051.0,
+        "1775": 78440.0,
+        "1582": 6029.0,
+        "1999": 83137.0,
+        "856": 45234.0,
+        "1634": 92026.0,
+        "343": 30189.0,
+        "1594": 73065.0,
+        "190": 95280.0,
+        "1375": 51454.0,
+        "1079": 91114.0,
+        "2079": 84007.0,
+        "114": 68066.0,
+        "2157": 63113.0,
+        "2166": 78172.0,
+        "653": 77373.0,
+        "1022": 62041.0,
+        "1943": 78545.0,
+        "1496": 93079.0,
+        "1367": 92062.0,
+        "1913": 78517.0,
+        "2473": 95582.0,
+        "990": 77294.0,
+        "364": 95487.0,
+        "1959": 37233.0,
+        "807": 91377.0,
+        "79": 14118.0,
+        "2050": 13001.0,
+        "1508": 91691.0,
+        "914": 42218.0,
+        "527": 78005.0,
+        "2167": 95176.0,
+        "2489": 92073.0,
+        "944": 77445.0,
+        "1353": 86194.0,
+        "2251": 78644.0,
+        "970": 78621.0,
+        "2138": 28085.0,
+        "827": 91421.0,
+        "202": 95306.0,
+        "1761": 93007.0,
+        "964": 57672.0,
+        "413": 91549.0,
+        "2365": 95450.0,
+        "168": 77014.0,
+        "1625": 77122.0,
+        "733": 77464.0,
+        "1471": 26004.0,
+        "1329": 94052.0,
+        "1124": 95197.0,
+        "1648": 59178.0,
+        "718": 95197.0,
+        "63": 91097.0,
+        "896": 77390.0,
+        "2005": 59606.0,
+        "929": 91570.0,
+        "1018": 74010.0,
+        "263": 92025.0,
+        "256": 93032.0,
+        "1031": 84007.0,
+        "241": 17300.0,
+        "2130": 95219.0,
+        "2019": 78642.0,
+        "43": 25056.0,
+        "1672": 78242.0,
+        "1980": 92072.0,
+        "1142": 91223.0,
+        "97": 60141.0,
+        "1020": 6004.0,
+        "1826": 91377.0,
+        "1287": 77294.0,
+        "319": 77305.0,
+        "1236": 94002.0,
+        "642": 95199.0,
+        "2027": 69264.0,
+        "744": 91228.0,
+        "2035": 78686.0,
+        "2481": 67462.0,
+        "483": 26362.0,
+        "1074": 29019.0,
+        "2147": 92022.0,
+        "845": 6088.0,
+        "268": 94017.0,
+        "616": 60159.0,
+        "866": 78490.0,
+        "357": 93078.0,
+        "1416": 95563.0,
+        "655": 91216.0,
+        "2061": 16015.0,
+        "991": 93078.0,
+        "2236": 78126.0,
+        "267": 94081.0,
+        "1324": 11262.0,
+        "2504": 77470.0
+    }
+}
